@@ -313,7 +313,7 @@
                       }
                     },
                     "apps": [
-                      "illustrator_cc"
+                      "animate_cc"
                     ]
                   }
                 },
@@ -2708,7 +2708,7 @@
                       }
                     },
                     "apps": [
-                      "illustrator_cc"
+                      "animate_cc"
                     ]
                   }
                 },
@@ -2769,7 +2769,7 @@
                       }
                     },
                     "apps": [
-                      "illustrator_cc"
+                      "animate_cc"
                     ]
                   }
                 },
@@ -4117,7 +4117,7 @@
                     "locReady": true,
                     "showVideoPlayControl": true,
                     "apps": [
-                      "illustrator_cc"
+                      "animate_cc"
                     ]
                   }
                 },
@@ -4666,7 +4666,7 @@
                       }
                     },
                     "apps": [
-                      "illustrator_cc"
+                      "animate_cc"
                     ]
                   }
                 },
@@ -4772,7 +4772,7 @@
                       }
                     },
                     "apps": [
-                      "illustrator_cc"
+                      "animate_cc"
                     ]
                   }
                 },
@@ -5140,7 +5140,7 @@
                       }
                     },
                     "apps": [
-                      "illustrator_cc"
+                      "animate_cc"
                     ]
                   }
                 },
@@ -6104,7 +6104,7 @@
                   "revision": 3
                 },
                 "fields": {
-                  "app": "illustrator_cc",
+                  "app": "animate_cc",
                   "whatsNewCta": {
                     "sys": {
                       "linkType": "Entry",
