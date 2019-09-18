@@ -4509,10 +4509,7 @@
           },
           "path": "assets/FLPR-20.0.0-en_US-trial-3b029162-a232-494a-afff-3c614f4a4098.json"
         }
-      ],
-      "surfaceAnalyticsData": {
-        "surfaceId": "CCX_Start_3.1_Home"
-      }
+      ]
     }
   },
   "expirationDTS": "2019-09-18T12:16:12.019+00:00",
