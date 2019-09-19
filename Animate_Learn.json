@@ -603,7 +603,7 @@
             "fields":{
                "needLocT3":"Yes",
                "textPosition":"centerMiddle",
-               "headerText":"b",
+               "headerText":"",
                "surfaces":[
                   "homeScreenLearn"
                ],
