@@ -603,20 +603,13 @@
             "fields":{
                "needLocT3":"Yes",
                "textPosition":"centerMiddle",
-               "headerText":"Find even more tutorials on the web",
+               "headerText":"b",
                "surfaces":[
                   "homeScreenLearn"
                ],
                "locReady":true,
                "needLocFGJK":"Yes",
                "title":"PS - Learn - Find More Tutorials - Footer",
-               "primaryCTA":{
-                  "sys":{
-                     "linkType":"Entry",
-                     "id":"5Xta0HBvVeegOy0yWyi2Ii",
-                     "type":"Link"
-                  }
-               },
                "apps":[
                   "animate_cc"
                ]
