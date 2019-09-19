@@ -307,7 +307,7 @@
             "fields":{
                "needLocT3":"Yes",
                "textPosition":"centerTop",
-               "headerText":"Find even more tutorials on the web",
+               "headerText":"",
                "surfaces":[
                   "HomeScreenLearn"
                ],
@@ -477,14 +477,14 @@
                "revision":1875
             },
             "fields":{
-               "ctaURL":"https://helpx.adobe.com/photoshop/tutorials.html",
-               "cta":"Go To Adobe.com",
+               "ctaURL":"",
+               "cta":"",
                "needLocT3":"Yes",
                "ctaAction":"externalURL",
                "locReady":true,
                "needLocFGJK":"Yes",
                "style":"default",
-               "ctaLog":"Go to Adobe.com",
+               "ctaLog":"",
                "title":"Go to Adobe.com PS"
             }
          },
