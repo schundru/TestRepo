@@ -5160,7 +5160,7 @@
                     "contentType": {
                       "sys": {
                         "linkType": "ContentType",
-                        "id": "homeTwoBanner",
+                        "id": "learnAll",
                         "type": "Link"
                       }
                     },
@@ -5474,7 +5474,7 @@
                     "contentType": {
                       "sys": {
                         "linkType": "ContentType",
-                        "id": "homeTwoBanner",
+                        "id": "learnAll",
                         "type": "Link"
                       }
                     },
