@@ -2,8 +2,9 @@
             "total": 1,
             "limit": 100,
             "skip": 0,
-            "items": [
-              {
+            "includes": {
+              "Entry": [
+               {
                   "sys": {
                     "createdAt": "2019-08-18T21:24:44.015Z",
                     "environment": {
@@ -32,7 +33,43 @@
                     },
                     "updatedAt": "2019-08-29T17:20:29.347Z",
                     "revision": 4
-                },
+                  },
+                  "fields": {
+                    "collapsibleContainer": {
+                      "sys": {
+                        "linkType": "Entry",
+                        "id": "7E0VbIGuEfEP8Za4cgPLxo",
+                        "type": "Link"
+                      }
+                    },
+                    "cardRight": {
+                      "sys": {
+                        "linkType": "Entry",
+                        "id": "7HIOVxzcRoxtVwhN551L2N",
+                        "type": "Link"
+                      }
+                    },
+                    "bottom": {
+                      "sys": {
+                        "linkType": "Entry",
+                        "id": "6a9B4XqPxHgycnghZxzfdj",
+                        "type": "Link"
+                      }
+                    },
+                    "name": "Ai Enterprise Home Stage 1",
+                    "cardLeft": {
+                      "sys": {
+                        "linkType": "Entry",
+                        "id": "6ZPaxyJ4M3srK5kMZfJfcY",
+                        "type": "Link"
+                      }
+                    }
+                  }
+                }
+                          ]
+            }
+            "items": [
+            {
                 "sys": {
                   "createdAt": "2019-08-18T21:15:22.999Z",
                   "environment": {
