@@ -252,7 +252,10 @@
                     "locReady": true,
                     "needLocFGJK": "Yes",
                     "style": "none",
-                    "ctaEvent": "FirstMileEvent.WhatsNewOverlay",
+                    "ctaEvent": "FirstMileEvent.openInAppTutorial",
+                    "ctaData": {
+                         "tutorial_id": "coachmark1"
+                         },
                     "ctaLog": "View in the app",
                     "title": "View in-app What's New modal card right Ai"
                   }
@@ -3261,7 +3264,10 @@
                     "locReady": true,
                     "needLocFGJK": "Yes",
                     "style": "default",
-                    "ctaEvent": "FirstMileEvent.WhatsNewOverlay",
+                    "ctaEvent": "FirstMileEvent.openInAppTutorial",
+                    "ctaData": {
+                         "tutorial_id": "coachmark1"
+                         },
                     "ctaLog": "View in the app",
                     "title": "View in-app What's New modal Ai"
                   }
