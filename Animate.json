@@ -5701,10 +5701,10 @@
                       "fileName": "An_FM_Exp_WhatsNew_1Third.jpg",
                       "details": {
                         "image": {
-                          "width": 728,
-                          "height": 272
+                          "width": 1004,
+                          "height": 720
                         },
-                        "size": 115390
+                        "size": 13046
                       },
                       "contentType": "image/jpeg",
                       "url": "https://github.com/schundru/TestRepo/raw/master/An_FM_Exp_WhatsNew_1Third.jpg",
@@ -5861,10 +5861,10 @@
                       "fileName": "An_FM_Exp_WhatsNew_1Third.jpg",
                       "details": {
                         "image": {
-                          "width": 728,
-                          "height": 272
+                          "width": 1004,
+                          "height": 720
                         },
-                        "size": 242032
+                        "size": 13046
                       },
                       "contentType": "image/jpeg",
                       "url": "https://github.com/schundru/TestRepo/raw/master/An_FM_Exp_WhatsNew_1Third.jpg",
@@ -5901,10 +5901,10 @@
                       "fileName": "An_FM_Exp_WhatsNew_2third.jpg",
                       "details": {
                         "image": {
-                          "width": 1140,
-                          "height": 520
+                          "width": 2008,
+                          "height": 720
                         },
-                        "size": 296792
+                        "size": 43606
                       },
                       "contentType": "image/jpeg",
                       "url": "https://github.com/schundru/TestRepo/raw/master/An_FM_Exp_WhatsNew_2Third.jpg",
@@ -6058,13 +6058,13 @@
                   },
                   "fields": {
                     "file": {
-                      "fileName": "An_FM_Ent_Video_2third.jpg",
+                      "fileName": "An_FM_Exp_WhatsNew_2Third.jpg",
                       "details": {
                         "image": {
-                          "width": 1140,
-                          "height": 520
+                          "width": 2008,
+                          "height": 720
                         },
-                        "size": 606379
+                        "size": 43606
                       },
                       "contentType": "image/jpeg",
                       "url": "https://github.com/schundru/TestRepo/raw/master/An_FM_Exp_WhatsNew_2Third.jpg",
