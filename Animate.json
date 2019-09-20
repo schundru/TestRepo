@@ -5698,7 +5698,7 @@
                   },
                   "fields": {
                     "file": {
-                      "fileName": "Ai_FM_Exp_WhatsNew_1Third.jpg",
+                      "fileName": "An_FM_Exp_WhatsNew_1Third.jpg",
                       "details": {
                         "image": {
                           "width": 728,
@@ -5707,8 +5707,8 @@
                         "size": 115390
                       },
                       "contentType": "image/jpeg",
-                      "url": "https://cvs.adobe.com/content/dam/cvs/firstmile/V2/264/3EcZx53OACSOU6ggXaVux9/assets/1vv830oYOHkbEysrfou12J-Ai_FM_Exp_WhatsNew_1Third.jpg",
-                      "path": "assets/ILST-24.0.0-en_US-paid-82d875b9-4820-46de-b7b0-4e49c2f3c027.jpeg"
+                      "url": "https://github.com/schundru/TestRepo/raw/master/An_FM_Exp_WhatsNew_1Third.jpg",
+                      "path": "assets/FLPR-20.0.0-en_US-paid-82d875b9-4820-46de-b7b0-4e49c2f3c027.jpeg"
                     },
                     "title": "Ai FM Exp WhatsNew 1Third"
                   }
@@ -5858,7 +5858,7 @@
                   },
                   "fields": {
                     "file": {
-                      "fileName": "Ai_FM_Beg_Video_1Third.jpg",
+                      "fileName": "An_FM_Exp_WhatsNew_1Third.jpg",
                       "details": {
                         "image": {
                           "width": 728,
@@ -5867,8 +5867,8 @@
                         "size": 242032
                       },
                       "contentType": "image/jpeg",
-                      "url": "https://cvs.adobe.com/content/dam/cvs/firstmile/V2/264/3EcZx53OACSOU6ggXaVux9/assets/6ARNLgmQssoA5A5CwX296b-Ai_FM_Beg_Video_1Third.jpg",
-                      "path": "assets/ILST-24.0.0-en_US-paid-99664dc5-afc8-4299-b941-cd8e3b41bae5.jpeg"
+                      "url": "https://github.com/schundru/TestRepo/raw/master/An_FM_Exp_WhatsNew_1Third.jpg",
+                      "path": "assets/FLPR-20.0.0-en_US-paid-99664dc5-afc8-4299-b941-cd8e3b41bae5.jpeg"
                     },
                     "title": "Ai FM Beg Video 1Third (1)"
                   }
@@ -5898,7 +5898,7 @@
                   },
                   "fields": {
                     "file": {
-                      "fileName": "Ai_FM_Exp_WhatsNew_2third.jpg",
+                      "fileName": "An_FM_Exp_WhatsNew_2third.jpg",
                       "details": {
                         "image": {
                           "width": 1140,
@@ -5907,8 +5907,8 @@
                         "size": 296792
                       },
                       "contentType": "image/jpeg",
-                      "url": "https://cvs.adobe.com/content/dam/cvs/firstmile/V2/264/3EcZx53OACSOU6ggXaVux9/assets/6JuprY3pOyzUYfMLTSrLyq-Ai_FM_Exp_WhatsNew_2third.jpg",
-                      "path": "assets/ILST-24.0.0-en_US-paid-372f421b-c573-4955-bfde-49cee0e2c928.jpeg"
+                      "url": "https://github.com/schundru/TestRepo/raw/master/An_FM_Exp_WhatsNew_2Third.jpg",
+                      "path": "assets/FLPR-20.0.0-en_US-paid-372f421b-c573-4955-bfde-49cee0e2c928.jpeg"
                     },
                     "title": "Ai FM Exp WhatsNew 2third"
                   }
@@ -6058,7 +6058,7 @@
                   },
                   "fields": {
                     "file": {
-                      "fileName": "Ai_FM_Ent_Video_2third.jpg",
+                      "fileName": "An_FM_Ent_Video_2third.jpg",
                       "details": {
                         "image": {
                           "width": 1140,
@@ -6067,8 +6067,8 @@
                         "size": 606379
                       },
                       "contentType": "image/jpeg",
-                      "url": "https://cvs.adobe.com/content/dam/cvs/firstmile/V2/264/3EcZx53OACSOU6ggXaVux9/assets/Y9k5L7p2n8iwR6GZpz1Yb-Ai_FM_Ent_Video_2third.jpg",
-                      "path": "assets/ILST-24.0.0-en_US-paid-8fb2f034-19ee-4308-8d73-044ed1a5ba5b.jpeg"
+                      "url": "https://github.com/schundru/TestRepo/raw/master/An_FM_Exp_WhatsNew_2Third.jpg",
+                      "path": "assets/FLPR-20.0.0-en_US-paid-8fb2f034-19ee-4308-8d73-044ed1a5ba5b.jpeg"
                     },
                     "title": "Ai FM Ent Video 2third (3)"
                   }
