@@ -252,7 +252,7 @@
                     "locReady": true,
                     "needLocFGJK": "Yes",
                     "style": "none",
-                    "ctaEvent": "FirstMileEvent.openInAppTutorial",
+                    "ctaEvent": "com.adobe.ccx.start.openInAppTutorial",
                     "ctaData": {
                          "tutorial_id": "coachmark1"
                          },
@@ -3264,7 +3264,7 @@
                     "locReady": true,
                     "needLocFGJK": "Yes",
                     "style": "default",
-                    "ctaEvent": "FirstMileEvent.openInAppTutorial",
+                    "ctaEvent": "com.adobe.ccx.start.openInAppTutorial",
                     "ctaData": {
                          "tutorial_id": "coachmark1"
                          },
