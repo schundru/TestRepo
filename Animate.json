@@ -151,12 +151,12 @@
                     "ctaAction": "appEvent",
                     "locReady": true,
                     "needLocFGJK": "Yes",
-                    "name": "8K FUHD",
+                    "name": "VR Panorama",
                     "ctaData": {
                       "isPreset": "true",
                       "description": "7680 x 4320 px",
                       "units": "pixelsUnit",
-                      "title": "8K FUHD",
+                      "title": "VR Panorama",
                       "thumbnail_url": "SP_PresetFilmVideo.png",
                       "resolution": 72,
                       "appSpecificKey": {
@@ -210,7 +210,7 @@
                     "description": "7680 x 4320 px",
                     "ctaEvent": "FirstMileEvent.PresetClicked",
                     "presetType": "Film & Studio",
-                    "ctaLog": "8K FUHD",
+                    "ctaLog": "VR Panorama",
                     "presetApp": "Illustrator"
                   }
                 },
@@ -930,12 +930,12 @@
                     "ctaAction": "appEvent",
                     "locReady": true,
                     "needLocFGJK": "Yes",
-                    "name": "HDV 720",
+                    "name": "WebGL Standard",
                     "ctaData": {
                       "isPreset": "true",
                       "description": "1280 x 720 px",
                       "units": "pixelsUnit",
-                      "title": "HDV 720",
+                      "title": "WebGL Standard",
                       "thumbnail_url": "SP_PresetFilmVideo.png",
                       "resolution": 72,
                       "appSpecificKey": {
@@ -989,7 +989,7 @@
                     "description": "1280 x 720 px",
                     "ctaEvent": "FirstMileEvent.PresetClicked",
                     "presetType": "Film & Studio",
-                    "ctaLog": "HDV 720",
+                    "ctaLog": "WebGL Standard",
                     "presetApp": "Illustrator"
                   }
                 },
@@ -2583,12 +2583,12 @@
                     "ctaAction": "appEvent",
                     "locReady": true,
                     "needLocFGJK": "Yes",
-                    "name": "Film (4K)",
+                    "name": "AS3",
                     "ctaData": {
                       "isPreset": "true",
                       "description": "4096 x 3112 px",
                       "units": "pixelsUnit",
-                      "title": "Film (4K)",
+                      "title": "AS3",
                       "thumbnail_url": "SP_PresetFilmVideo.png",
                       "resolution": 72,
                       "appSpecificKey": {
@@ -3356,12 +3356,12 @@
                     "ctaAction": "appEvent",
                     "locReady": true,
                     "needLocFGJK": "Yes",
-                    "name": "4K UHD",
+                    "name": "WebGL Extended",
                     "ctaData": {
                       "isPreset": "true",
                       "description": "3840 x 2160 px",
                       "units": "pixelsUnit",
-                      "title": "4K UHD",
+                      "title": "WebGL Extended",
                       "thumbnail_url": "SP_PresetFilmVideo.png",
                       "resolution": 72,
                       "appSpecificKey": {
@@ -3415,7 +3415,7 @@
                     "description": "3840 x 2160 px",
                     "ctaEvent": "FirstMileEvent.PresetClicked",
                     "presetType": "Film & Studio",
-                    "ctaLog": "4K UHD",
+                    "ctaLog": "WebGL Extended",
                     "presetApp": "Illustrator"
                   }
                 },
@@ -4441,12 +4441,12 @@
                     "ctaAction": "appEvent",
                     "locReady": true,
                     "needLocFGJK": "Yes",
-                    "name": "HDV/HDTV 1080",
+                    "name": "Canvas",
                     "ctaData": {
                       "isPreset": "true",
                       "description": "1920 x 1080 px",
                       "units": "pixelsUnit",
-                      "title": "HDV/HDTV 1080",
+                      "title": "Canvas",
                       "thumbnail_url": "SP_PresetFilmVideo.png",
                       "resolution": 72,
                       "appSpecificKey": {
@@ -4500,7 +4500,7 @@
                     "description": "1920 x 1080 px",
                     "ctaEvent": "FirstMileEvent.PresetClicked",
                     "presetType": "Film & Studio",
-                    "ctaLog": "HDV 720",
+                    "ctaLog": "WebGL Standard",
                     "presetApp": "Illustrator"
                   }
                 },
