@@ -254,8 +254,8 @@
                     "style": "none",
                     "ctaEvent": "com.adobe.ccx.start.openInAppTutorial",
                     "ctaData": {
-                         "tutorial_id": "coachmark1"
-                         },
+                      "tutorial_id": "coachmark1"
+                    },
                     "ctaLog": "View in the app",
                     "title": "View in-app What's New modal card right Ai"
                   }
@@ -362,12 +362,12 @@
                     "ctaAction": "appEvent",
                     "locReady": false,
                     "needLocFGJK": "Yes",
-                    "name": "Letter",
+                    "name": "Android 16:9",
                     "ctaData": {
                       "isPreset": "true",
                       "description": "792 x 612 pt",
                       "units": "pointsUnit",
-                      "title": "Letter",
+                      "title": "Android 16:9",
                       "thumbnail_url": "SP_PresetArt.png",
                       "resolution": 72,
                       "appSpecificKey": {
@@ -421,7 +421,7 @@
                     "description": "792 x 612 pt",
                     "ctaEvent": "FirstMileEvent.PresetClicked",
                     "presetType": "Art & Illustration",
-                    "ctaLog": "1920 x 1080",
+                    "ctaLog": "iPhone 5",
                     "presetApp": "Illustrator"
                   }
                 },
@@ -930,12 +930,12 @@
                     "ctaAction": "appEvent",
                     "locReady": true,
                     "needLocFGJK": "Yes",
-                    "name": "WebGL Standard",
+                    "name": "WebGL standard",
                     "ctaData": {
                       "isPreset": "true",
                       "description": "1280 x 720 px",
                       "units": "pixelsUnit",
-                      "title": "WebGL Standard",
+                      "title": "WebGL standard",
                       "thumbnail_url": "SP_PresetFilmVideo.png",
                       "resolution": 72,
                       "appSpecificKey": {
@@ -989,7 +989,7 @@
                     "description": "1280 x 720 px",
                     "ctaEvent": "FirstMileEvent.PresetClicked",
                     "presetType": "Film & Studio",
-                    "ctaLog": "WebGL Standard",
+                    "ctaLog": "WebGL standard",
                     "presetApp": "Illustrator"
                   }
                 },
@@ -1035,7 +1035,7 @@
                     "ctaAction": "appEvent",
                     "locReady": false,
                     "needLocFGJK": "Yes",
-                    "name": "A4",
+                    "name": "Full HD",
                     "ctaData": {
                       "isPreset": "true",
                       "description": "792 x 1224 pt",
@@ -1094,7 +1094,7 @@
                     "description": "792 x 1224 pt",
                     "ctaEvent": "FirstMileEvent.PresetClicked",
                     "presetType": "Print",
-                    "ctaLog": "A4",
+                    "ctaLog": "Full HD",
                     "presetApp": "Illustrator"
                   }
                 },
@@ -1392,12 +1392,12 @@
                     "ctaAction": "appEvent",
                     "locReady": false,
                     "needLocFGJK": "Yes",
-                    "name": "Poster",
+                    "name": "iPad 3-4 Gen",
                     "ctaData": {
                       "isPreset": "true",
                       "description": "1296 x 1728 pt",
                       "units": "pointsUnit",
-                      "title": "Poster",
+                      "title": "iPad 3-4 Gen",
                       "thumbnail_url": "SP_PresetArt.png",
                       "resolution": 72,
                       "appSpecificKey": {
@@ -1451,7 +1451,7 @@
                     "description": "1296 x 1728 pt",
                     "ctaEvent": "FirstMileEvent.PresetClicked",
                     "presetType": "Art & Illustration",
-                    "ctaLog": "Poster",
+                    "ctaLog": "iPad 3-4 Gen",
                     "presetApp": "Illustrator"
                   }
                 },
@@ -1497,12 +1497,12 @@
                     "ctaAction": "appEvent",
                     "locReady": true,
                     "needLocFGJK": "Yes",
-                    "name": "iPhone 8/7/6",
+                    "name": "very high",
                     "ctaData": {
                       "isPreset": "true",
                       "description": "750 x 1334 px",
                       "units": "pixelsUnit",
-                      "title": "iPhone 8/7/6",
+                      "title": "very high",
                       "thumbnail_url": "SP_PresetMobileAppDoc.png",
                       "resolution": 72,
                       "appSpecificKey": {
@@ -1602,12 +1602,12 @@
                     "ctaAction": "appEvent",
                     "locReady": true,
                     "needLocFGJK": "Yes",
-                    "name": "Phone 8/7/6 Plus",
+                    "name": "iPhone 5",
                     "ctaData": {
                       "isPreset": "true",
                       "description": "1242 x 2208 px",
                       "units": "pixelsUnit",
-                      "title": "iPhone 8/7/6 Plus",
+                      "title": "iPhone 5",
                       "thumbnail_url": "SP_PresetMobileAppDoc.png",
                       "resolution": 72,
                       "appSpecificKey": {
@@ -1661,7 +1661,7 @@
                     "description": "1242 x 2208 px",
                     "ctaEvent": "FirstMileEvent.PresetClicked",
                     "presetType": "Mobile",
-                    "ctaLog": "IPhone 8/7/6 Plus",
+                    "ctaLog": "iPhone 5",
                     "presetApp": "Illustrator"
                   }
                 },
@@ -2394,12 +2394,12 @@
                     "ctaAction": "appEvent",
                     "locReady": true,
                     "needLocFGJK": "Yes",
-                    "name": "IPhone X",
+                    "name": "iPad 3-4 Gen",
                     "ctaData": {
                       "isPreset": "true",
                       "description": "1125 x 2436 px",
                       "units": "pixelsUnit",
-                      "title": "iPhone X",
+                      "title": "iPad 3-4 Gen",
                       "thumbnail_url": "SP_PresetMobileAppDoc.png",
                       "resolution": 72,
                       "appSpecificKey": {
@@ -2453,7 +2453,7 @@
                     "description": "1125 x 2436 p",
                     "ctaEvent": "FirstMileEvent.PresetClicked",
                     "presetType": "Mobile",
-                    "ctaLog": "IPhone X",
+                    "ctaLog": "iPad 3-4 Gen",
                     "presetApp": "Illustrator"
                   }
                 },
@@ -3120,12 +3120,12 @@
                     "ctaAction": "appEvent",
                     "locReady": true,
                     "needLocFGJK": "Yes",
-                    "name": "Google Pixel/Pixel 2",
+                    "name": "Standard video",
                     "ctaData": {
                       "isPreset": "true",
                       "description": "1080 x 1920 px",
                       "units": "pixelsUnit",
-                      "title": "Google pixel/Pixel 2",
+                      "title": "Standard video",
                       "thumbnail_url": "SP_PresetMobileAppDoc.png",
                       "resolution": 72,
                       "appSpecificKey": {
@@ -3179,7 +3179,7 @@
                     "description": "1080 x 1920 px",
                     "ctaEvent": "FirstMileEvent.PresetClicked",
                     "presetType": "Mobile",
-                    "ctaLog": "Google Pixel/Pixel 2",
+                    "ctaLog": "iPad 3-4 Gen",
                     "presetApp": "Illustrator"
                   }
                 },
@@ -3266,8 +3266,8 @@
                     "style": "default",
                     "ctaEvent": "com.adobe.ccx.start.openInAppTutorial",
                     "ctaData": {
-                         "tutorial_id": "coachmark1"
-                         },
+                      "tutorial_id": "coachmark1"
+                    },
                     "ctaLog": "View in the app",
                     "title": "View in-app What's New modal Ai"
                   }
@@ -3454,12 +3454,12 @@
                     "ctaAction": "appEvent",
                     "locReady": false,
                     "needLocFGJK": "Yes",
-                    "name": "Letter",
+                    "name": "Android 16:9",
                     "ctaData": {
                       "isPreset": "true",
                       "description": "612 x 792 pt",
                       "units": "pointsUnit",
-                      "title": "Letter",
+                      "title": "Android 16:9",
                       "thumbnail_url": "SP_PrintDoc.png",
                       "resolution": 300,
                       "appSpecificKey": {
@@ -3513,7 +3513,7 @@
                     "description": "612 x 792 pt",
                     "ctaEvent": "FirstMileEvent.PresetClicked",
                     "presetType": "Print",
-                    "ctaLog": "Letter",
+                    "ctaLog": "Android 16:9",
                     "presetApp": "Illustrator"
                   }
                 },
@@ -3559,12 +3559,12 @@
                     "ctaAction": "appEvent",
                     "locReady": false,
                     "needLocFGJK": "Yes",
-                    "name": "1280 x 1024",
+                    "name": "very high",
                     "ctaData": {
                       "isPreset": "true",
                       "description": "1280 x 1024 pt",
                       "units": "pointsUnit",
-                      "title": "1280 x 1024",
+                      "title": "very high",
                       "thumbnail_url": "SP_PresetArt.png",
                       "resolution": 72,
                       "appSpecificKey": {
@@ -3618,7 +3618,7 @@
                     "description": "1280 x 1024 pt",
                     "ctaEvent": "FirstMileEvent.PresetClicked",
                     "presetType": "Art & Illustration",
-                    "ctaLog": "1280 x 1024",
+                    "ctaLog": "very high",
                     "presetApp": "Illustrator"
                   }
                 },
@@ -3890,12 +3890,12 @@
                     "ctaAction": "appEvent",
                     "locReady": false,
                     "needLocFGJK": "Yes",
-                    "name": "1920 x 1080",
+                    "name": "iPhone 5",
                     "ctaData": {
                       "isPreset": "true",
                       "description": "1920 x 1080 pt",
                       "units": "pointsUnit",
-                      "title": "1920 x 1080",
+                      "title": "iPhone 5",
                       "thumbnail_url": "SP_PresetArt.png",
                       "resolution": 72,
                       "appSpecificKey": {
@@ -3949,7 +3949,7 @@
                     "description": "1920 x 1080 px",
                     "ctaEvent": "FirstMileEvent.PresetClicked",
                     "presetType": "Art & Illustration",
-                    "ctaLog": "1920 x 1080",
+                    "ctaLog": "iPhone 5",
                     "presetApp": "Illustrator"
                   }
                 },
@@ -4500,7 +4500,7 @@
                     "description": "1920 x 1080 px",
                     "ctaEvent": "FirstMileEvent.PresetClicked",
                     "presetType": "Film & Studio",
-                    "ctaLog": "WebGL Standard",
+                    "ctaLog": "WebGL standard",
                     "presetApp": "Illustrator"
                   }
                 },
@@ -4824,12 +4824,12 @@
                     "ctaAction": "appEvent",
                     "locReady": true,
                     "needLocFGJK": "Yes",
-                    "name": "Common",
+                    "name": "Square 250 x 250",
                     "ctaData": {
                       "isPreset": "true",
                       "description": "1366 x 768 px",
                       "units": "pixelsUnit",
-                      "title": "Common",
+                      "title": "Square 250 x 250",
                       "thumbnail_url": "SP_PresetWebDoc.png",
                       "resolution": 72,
                       "appSpecificKey": {
@@ -4883,7 +4883,7 @@
                     "description": "1366 x 768 px",
                     "ctaEvent": "FirstMileEvent.PresetClicked",
                     "presetType": "Web",
-                    "ctaLog": "Common",
+                    "ctaLog": "Square 250 x 250",
                     "presetApp": "Illustrator"
                   }
                 },
@@ -4929,12 +4929,12 @@
                     "ctaAction": "appEvent",
                     "locReady": false,
                     "needLocFGJK": "Yes",
-                    "name": "A4",
+                    "name": "Full HD ",
                     "ctaData": {
                       "isPreset": "true",
                       "description": "841.89 x 595.28 pt",
                       "units": "pointsUnit",
-                      "title": "A4",
+                      "title": "Full HD",
                       "thumbnail_url": "SP_PresetArt.png",
                       "resolution": 72,
                       "appSpecificKey": {
@@ -4988,7 +4988,7 @@
                     "description": "841.89 x 595.28 pt",
                     "ctaEvent": "FirstMileEvent.PresetClicked",
                     "presetType": "Art & Illustration",
-                    "ctaLog": "A4",
+                    "ctaLog": "Full HD",
                     "presetApp": "Illustrator"
                   }
                 },
@@ -5460,7 +5460,7 @@
                     "description": "1920 x 1080 px",
                     "ctaEvent": "FirstMileEvent.PresetClicked",
                     "presetType": "Web",
-                    "ctaLog": "Weblarge",
+                    "ctaLog": "Leader Board 728 x 90",
                     "presetApp": "Illustrator"
                   }
                 },
@@ -5573,7 +5573,7 @@
                       "isPreset": "true",
                       "description": "2048 x 2732 px",
                       "units": "pixelsUnit",
-                      "title": "iPad Pro",
+                      "title": "Android 16:9",
                       "thumbnail_url": "SP_PresetMobileAppDoc.png",
                       "resolution": 72,
                       "appSpecificKey": {
@@ -5627,7 +5627,7 @@
                     "description": "2048 x 2732 px",
                     "ctaEvent": "FirstMileEvent.PresetClicked",
                     "presetType": "Mobile",
-                    "ctaLog": "IPad Pro",
+                    "ctaLog": "Android 16:9",
                     "presetApp": "Illustrator"
                   }
                 }
@@ -5668,7 +5668,7 @@
                       },
                       "contentType": "image/svg+xml",
                       "url": "https://cvs.adobe.com/content/dam/cvs/firstmile/V2/264/3EcZx53OACSOU6ggXaVux9/assets/1MT2ZEcmqoWMeyiWGQeMEs-ai_poster_icon_over.svg",
-                      "path": "assets/ILST-24.0.0-en_US-paid-8e7297f9-7f5e-4020-a9d2-213eff1b2e2a.svg"
+                      "path": "assets/FLPR-20.0.0-en_US-paid-7cdfb0e7-fa24-490e-a388-e21892c214a0.svg"
                     },
                     "title": "ai poster icon over"
                   }
@@ -5708,7 +5708,7 @@
                       },
                       "contentType": "image/jpeg",
                       "url": "https://raw.githubusercontent.com/schundru/TestRepo/master/An_FM_Exp_WhatsNew_1Third.jpg",
-                      "path": "assets/FLPR-20.0.0-en_US-paid-82d875b9-4820-46de-b7b0-4e49c2f3c027.jpeg"
+                      "path": "assets/FLPR-20.0.0-en_US-paid-908d2702-3b82-42d3-b609-cca4eccb4b1f.jpeg"
                     },
                     "title": "Ai FM Exp WhatsNew 1Third"
                   }
@@ -5748,9 +5748,9 @@
                       },
                       "contentType": "image/svg+xml",
                       "url": "https://cvs.adobe.com/content/dam/cvs/firstmile/V2/264/3EcZx53OACSOU6ggXaVux9/assets/4Y4xCmjRSwAUCyO8yqEcog-ai_a4_icon_over.svg",
-                      "path": "assets/ILST-24.0.0-en_US-paid-34885110-f883-4afb-9de7-fbbe7a83ffe3.svg"
+                      "path": "assets/FLPR-20.0.0-en_US-paid-565c9bc3-6295-455e-b5d8-1a043f8d3c29.svg"
                     },
-                    "title": "A4"
+                    "title": "Full HD"
                   }
                 },
                 {
@@ -5788,7 +5788,7 @@
                       },
                       "contentType": "image/svg+xml",
                       "url": "https://cvs.adobe.com/content/dam/cvs/firstmile/V2/264/3EcZx53OACSOU6ggXaVux9/assets/4aoq4yEareU2gISgAEemM0-ai_webpage_icon_over.svg",
-                      "path": "assets/ILST-24.0.0-en_US-paid-329cef38-00c9-4fb8-a189-3b60e04fc426.svg"
+                      "path": "assets/FLPR-20.0.0-en_US-paid-d54a1e8f-7827-49f5-bce5-2d4d888a3216.svg"
                     },
                     "title": "ai webpage icon over"
                   }
@@ -5828,7 +5828,7 @@
                       },
                       "contentType": "image/svg+xml",
                       "url": "https://cvs.adobe.com/content/dam/cvs/firstmile/V2/264/3EcZx53OACSOU6ggXaVux9/assets/5lbBP7bPvGuGC4csOgQmqw-ai_iphone_icon_over.svg",
-                      "path": "assets/ILST-24.0.0-en_US-paid-8b222fd6-f3e3-4732-a851-dd606eb02b8a.svg"
+                      "path": "assets/FLPR-20.0.0-en_US-paid-eef29a91-8b90-4a38-8781-db6a3cc6a96a.svg"
                     },
                     "title": "ai iphone icon over"
                   }
@@ -5868,7 +5868,7 @@
                       },
                       "contentType": "image/jpeg",
                       "url": "https://raw.githubusercontent.com/schundru/TestRepo/master/An_FM_Exp_WhatsNew_1Third.jpg",
-                      "path": "assets/FLPR-20.0.0-en_US-paid-99664dc5-afc8-4299-b941-cd8e3b41bae5.jpeg"
+                      "path": "assets/FLPR-20.0.0-en_US-paid-908d2702-3b82-42d3-b609-cca4eccb4b1f.jpeg"
                     },
                     "title": "Ai FM Beg Video 1Third (1)"
                   }
@@ -5908,7 +5908,7 @@
                       },
                       "contentType": "image/jpeg",
                       "url": "https://raw.githubusercontent.com/schundru/TestRepo/master/An_FM_Exp_WhatsNew_2Third.jpg",
-                      "path": "assets/FLPR-20.0.0-en_US-paid-372f421b-c573-4955-bfde-49cee0e2c928.jpeg"
+                      "path": "assets/FLPR-20.0.0-en_US-paid-2f2c3375-2e5d-4694-b684-910c8e8eec60.jpeg"
                     },
                     "title": "Ai FM Exp WhatsNew 2third"
                   }
@@ -5948,7 +5948,7 @@
                       },
                       "contentType": "image/svg+xml",
                       "url": "https://cvs.adobe.com/content/dam/cvs/firstmile/V2/264/3EcZx53OACSOU6ggXaVux9/assets/6UfkPhbHpTrzuIgwhVEDkW-ai_link_to_learn_s.svg",
-                      "path": "assets/ILST-24.0.0-en_US-paid-ea9bcf3e-40e4-4de7-87f8-200645cb1bf1.svg"
+                      "path": "assets/FLPR-20.0.0-en_US-paid-4f151046-5548-4b13-bc61-a2fd40e65a62.svg"
                     },
                     "title": "ai link to learn s"
                   }
@@ -5988,7 +5988,7 @@
                       },
                       "contentType": "image/svg+xml",
                       "url": "https://cvs.adobe.com/content/dam/cvs/firstmile/V2/264/3EcZx53OACSOU6ggXaVux9/assets/79ZdhUU2Yg0S4uWGmKIwks-ai_hdtv_icon_over.svg",
-                      "path": "assets/ILST-24.0.0-en_US-paid-f3dc3808-3f9e-4b62-97f0-0bd2c7a71b42.svg"
+                      "path": "assets/FLPR-20.0.0-en_US-paid-86e74766-f0ed-491b-9f8c-ae0a0332498d.svg"
                     },
                     "title": "HDTV ICOn"
                   }
@@ -6028,7 +6028,7 @@
                       },
                       "contentType": "image/svg+xml",
                       "url": "https://cvs.adobe.com/content/dam/cvs/firstmile/V2/264/3EcZx53OACSOU6ggXaVux9/assets/7BUgmgrhzpyeDP2qMBnT6X-ai_more_icon_over.svg",
-                      "path": "assets/ILST-24.0.0-en_US-paid-0c74681c-358a-435c-b5ee-63a59c0d0d53.svg"
+                      "path": "assets/FLPR-20.0.0-en_US-paid-e8716ea6-9f32-4ff2-8e82-99543d92996d.svg"
                     },
                     "title": "More Presets Asset"
                   }
@@ -6068,7 +6068,7 @@
                       },
                       "contentType": "image/jpeg",
                       "url": "https://raw.githubusercontent.com/schundru/TestRepo/master/An_FM_Exp_WhatsNew_2Third.jpg",
-                      "path": "assets/FLPR-20.0.0-en_US-paid-8fb2f034-19ee-4308-8d73-044ed1a5ba5b.jpeg"
+                      "path": "assets/FLPR-20.0.0-en_US-paid-2f2c3375-2e5d-4694-b684-910c8e8eec60.jpeg"
                     },
                     "title": "Ai FM Ent Video 2third (3)"
                   }
