@@ -46,12 +46,12 @@
                     "ctaAction": "appEvent",
                     "locReady": false,
                     "needLocFGJK": "Yes",
-                    "name": "A3",
+                    "name": "4K",
                     "ctaData": {
                       "isPreset": "true",
                       "description": "841.89 x 1190.55 pt",
                       "units": "pointsUnit",
-                      "title": "A3",
+                      "title": "4K",
                       "thumbnail_url": "SP_PrintDoc.png",
                       "resolution": 300,
                       "appSpecificKey": {
@@ -105,7 +105,7 @@
                     "description": "841.89 x 1190.55 pt",
                     "ctaEvent": "FirstMileEvent.PresetClicked",
                     "presetType": "Print",
-                    "ctaLog": "A3",
+                    "ctaLog": "4K",
                     "presetApp": "Illustrator"
                   }
                 },
@@ -427,111 +427,6 @@
                 },
                 {
                   "sys": {
-                    "createdAt": "2019-08-13T21:28:06.796Z",
-                    "environment": {
-                      "sys": {
-                        "linkType": "Environment",
-                        "id": "master",
-                        "type": "Link"
-                      }
-                    },
-                    "id": "1YIoJBq2ztpyeZ65QhHy98",
-                    "type": "Entry",
-                    "locale": "en-US",
-                    "contentType": {
-                      "sys": {
-                        "linkType": "ContentType",
-                        "id": "referencePresetLinkMax2019",
-                        "type": "Link"
-                      }
-                    },
-                    "space": {
-                      "sys": {
-                        "linkType": "Space",
-                        "id": "26hmpptqwub2",
-                        "type": "Link"
-                      }
-                    },
-                    "updatedAt": "2019-09-10T04:44:24.565Z",
-                    "revision": 115
-                  },
-                  "fields": {
-                    "image": {
-                      "sys": {
-                        "linkType": "Asset",
-                        "id": "1MT2ZEcmqoWMeyiWGQeMEs",
-                        "type": "Link"
-                      }
-                    },
-                    "needLocT3": "Yes",
-                    "ctaAction": "appEvent",
-                    "locReady": false,
-                    "needLocFGJK": "Yes",
-                    "name": "Legal",
-                    "ctaData": {
-                      "isPreset": "true",
-                      "description": "612 x 1008 pt",
-                      "units": "pointsUnit",
-                      "title": "Legal",
-                      "thumbnail_url": "SP_PrintDoc.png",
-                      "resolution": 300,
-                      "appSpecificKey": {
-                        "gridColor1": [
-                          65535,
-                          65535,
-                          65535
-                        ],
-                        "gridColor2": [
-                          52428,
-                          52428,
-                          52428
-                        ],
-                        "pixelAspectRatio": 1,
-                        "documentType": 1,
-                        "artboardLayout": 0,
-                        "bleedOffset": [
-                          0,
-                          0,
-                          0,
-                          0
-                        ],
-                        "ppi": 72,
-                        "isArtboardLayoutLeftToRight": "true",
-                        "previewMode": 2,
-                        "mode": "CMYK",
-                        "isATPG": "false",
-                        "transparencyGrid": false,
-                        "artboardRowsOrCols": 1,
-                        "numArtboards": 1,
-                        "width": 612,
-                        "rasterEffectSettings": 300,
-                        "lockBleed": true,
-                        "artboardSpacing": 20,
-                        "height": 792,
-                        "customFile": ""
-                      },
-                      "mode": "CMYK",
-                      "template_category": "print",
-                      "size": 0,
-                      "mime_type": "image/illustrator",
-                      "numArtboards": 1,
-                      "width": 612,
-                      "previews": [],
-                      "tip": "Start a new Legal document - 612 x 1008 pt",
-                      "id": "",
-                      "price_prompt": "",
-                      "artboardSpacing": 20,
-                      "height": 1008
-                    },
-                    "description": "612 x 1008 pt",
-                    "ctaEvent": "FirstMileEvent.PresetClicked",
-                    "presetType": "Print",
-                    "ctaLog": "Legal",
-                    "presetApp": "Illustrator"
-                  }
-                },
-                {
-                  "sys": {
                     "createdAt": "2019-08-13T21:29:03.175Z",
                     "environment": {
                       "sys": {
@@ -572,12 +467,12 @@
                     "ctaAction": "appEvent",
                     "locReady": false,
                     "needLocFGJK": "Yes",
-                    "name": "Tabloid",
+                    "name": "HD",
                     "ctaData": {
                       "isPreset": "true",
                       "description": "792 x 1224 pt",
                       "units": "pointsUnit",
-                      "title": "Tabloid",
+                      "title": "HD",
                       "thumbnail_url": "SP_PrintDoc.png",
                       "resolution": 300,
                       "appSpecificKey": {
@@ -631,7 +526,7 @@
                     "description": "792 x 1224 pt",
                     "ctaEvent": "FirstMileEvent.PresetClicked",
                     "presetType": "Print",
-                    "ctaLog": "Tabloid",
+                    "ctaLog": "HD",
                     "presetApp": "Illustrator"
                   }
                 },
@@ -783,111 +678,7 @@
                     "presetApp": "Illustrator"
                   }
                 },
-                {
-                  "sys": {
-                    "createdAt": "2019-08-13T21:59:44.700Z",
-                    "environment": {
-                      "sys": {
-                        "linkType": "Environment",
-                        "id": "master",
-                        "type": "Link"
-                      }
-                    },
-                    "id": "1unFud73iIwOjq7JVNFoBo",
-                    "type": "Entry",
-                    "locale": "en-US",
-                    "contentType": {
-                      "sys": {
-                        "linkType": "ContentType",
-                        "id": "referencePresetLinkMax2019",
-                        "type": "Link"
-                      }
-                    },
-                    "space": {
-                      "sys": {
-                        "linkType": "Space",
-                        "id": "26hmpptqwub2",
-                        "type": "Link"
-                      }
-                    },
-                    "updatedAt": "2019-09-10T14:54:21.280Z",
-                    "revision": 115
-                  },
-                  "fields": {
-                    "image": {
-                      "sys": {
-                        "linkType": "Asset",
-                        "id": "4aoq4yEareU2gISgAEemM0",
-                        "type": "Link"
-                      }
-                    },
-                    "needLocT3": "Yes",
-                    "ctaAction": "appEvent",
-                    "locReady": true,
-                    "needLocFGJK": "Yes",
-                    "name": " 640 x 480",
-                    "ctaData": {
-                      "isPreset": "true",
-                      "description": "640 x 480 px",
-                      "units": "pixelsUnit",
-                      "title": "640 x 480",
-                      "thumbnail_url": "SP_PresetWebDoc.png",
-                      "resolution": 72,
-                      "appSpecificKey": {
-                        "gridColor1": [
-                          65535,
-                          65535,
-                          65535
-                        ],
-                        "gridColor2": [
-                          52428,
-                          52428,
-                          52428
-                        ],
-                        "pixelAspectRatio": 1,
-                        "documentType": 2,
-                        "artboardLayout": 0,
-                        "bleedOffset": [
-                          0,
-                          0,
-                          0,
-                          0
-                        ],
-                        "ppi": 72,
-                        "isArtboardLayoutLeftToRight": "true",
-                        "previewMode": 2,
-                        "mode": "RGB",
-                        "isATPG": "false",
-                        "transparencyGrid": false,
-                        "artboardRowsOrCols": 1,
-                        "numArtboards": 1,
-                        "width": 960,
-                        "rasterEffectSettings": 72,
-                        "lockBleed": true,
-                        "artboardSpacing": 20,
-                        "height": 560,
-                        "customFile": ""
-                      },
-                      "mode": "RGB",
-                      "template_category": "web",
-                      "size": 0,
-                      "mime_type": "image/illustrator",
-                      "numArtboards": 1,
-                      "width": 640,
-                      "previews": [],
-                      "tip": "Start a new 640 x 480 document - 640 x 480 px",
-                      "id": "",
-                      "price_prompt": "",
-                      "artboardSpacing": 20,
-                      "height": 480
-                    },
-                    "description": " 640 x 480 px",
-                    "ctaEvent": "FirstMileEvent.PresetClicked",
-                    "presetType": "Web",
-                    "ctaLog": "640 x 480",
-                    "presetApp": "Illustrator"
-                  }
-                },
+            
                 {
                   "sys": {
                     "createdAt": "2019-08-13T22:06:26.076Z",
@@ -1040,7 +831,7 @@
                       "isPreset": "true",
                       "description": "792 x 1224 pt",
                       "units": "pointsUnit",
-                      "title": "Tabloid",
+                      "title": "HD",
                       "thumbnail_url": "SP_PrintDoc.png",
                       "resolution": 300,
                       "appSpecificKey": {
@@ -1245,111 +1036,7 @@
                     "presetApp": "Illustrator"
                   }
                 },
-                {
-                  "sys": {
-                    "createdAt": "2019-08-13T21:59:07.338Z",
-                    "environment": {
-                      "sys": {
-                        "linkType": "Environment",
-                        "id": "master",
-                        "type": "Link"
-                      }
-                    },
-                    "id": "2LUUAZz3Gfybu6oxdaVN7L",
-                    "type": "Entry",
-                    "locale": "en-US",
-                    "contentType": {
-                      "sys": {
-                        "linkType": "ContentType",
-                        "id": "referencePresetLinkMax2019",
-                        "type": "Link"
-                      }
-                    },
-                    "space": {
-                      "sys": {
-                        "linkType": "Space",
-                        "id": "26hmpptqwub2",
-                        "type": "Link"
-                      }
-                    },
-                    "updatedAt": "2019-09-10T14:57:32.816Z",
-                    "revision": 115
-                  },
-                  "fields": {
-                    "image": {
-                      "sys": {
-                        "linkType": "Asset",
-                        "id": "4aoq4yEareU2gISgAEemM0",
-                        "type": "Link"
-                      }
-                    },
-                    "needLocT3": "Yes",
-                    "ctaAction": "appEvent",
-                    "locReady": true,
-                    "needLocFGJK": "Yes",
-                    "name": "800 x 600",
-                    "ctaData": {
-                      "isPreset": "true",
-                      "description": "800 x 600 px",
-                      "units": "pixelsUnit",
-                      "title": "800 x 600",
-                      "thumbnail_url": "SP_PresetWebDoc.png",
-                      "resolution": 72,
-                      "appSpecificKey": {
-                        "gridColor1": [
-                          65535,
-                          65535,
-                          65535
-                        ],
-                        "gridColor2": [
-                          52428,
-                          52428,
-                          52428
-                        ],
-                        "pixelAspectRatio": 1,
-                        "documentType": 2,
-                        "artboardLayout": 0,
-                        "bleedOffset": [
-                          0,
-                          0,
-                          0,
-                          0
-                        ],
-                        "ppi": 72,
-                        "isArtboardLayoutLeftToRight": "true",
-                        "previewMode": 2,
-                        "mode": "RGB",
-                        "isATPG": "false",
-                        "transparencyGrid": false,
-                        "artboardRowsOrCols": 1,
-                        "numArtboards": 1,
-                        "width": 960,
-                        "rasterEffectSettings": 72,
-                        "lockBleed": true,
-                        "artboardSpacing": 20,
-                        "height": 560,
-                        "customFile": ""
-                      },
-                      "mode": "RGB",
-                      "template_category": "web",
-                      "size": 0,
-                      "mime_type": "image/illustrator",
-                      "numArtboards": 1,
-                      "width": 800,
-                      "previews": [],
-                      "tip": "Start a new 800 x 600 document - 800 x 600 px",
-                      "id": "",
-                      "price_prompt": "",
-                      "artboardSpacing": 20,
-                      "height": 600
-                    },
-                    "description": "800 x 600 px",
-                    "ctaEvent": "FirstMileEvent.PresetClicked",
-                    "presetType": "Web",
-                    "ctaLog": "800 x 600",
-                    "presetApp": "Illustrator"
-                  }
-                },
+               
                 {
                   "sys": {
                     "createdAt": "2019-08-13T22:20:07.197Z",
@@ -1667,216 +1354,6 @@
                 },
                 {
                   "sys": {
-                    "createdAt": "2019-08-13T21:31:00.753Z",
-                    "environment": {
-                      "sys": {
-                        "linkType": "Environment",
-                        "id": "master",
-                        "type": "Link"
-                      }
-                    },
-                    "id": "2qWTSz2DK1LJga9ULXXXwY",
-                    "type": "Entry",
-                    "locale": "en-US",
-                    "contentType": {
-                      "sys": {
-                        "linkType": "ContentType",
-                        "id": "referencePresetLinkMax2019",
-                        "type": "Link"
-                      }
-                    },
-                    "space": {
-                      "sys": {
-                        "linkType": "Space",
-                        "id": "26hmpptqwub2",
-                        "type": "Link"
-                      }
-                    },
-                    "updatedAt": "2019-09-10T04:44:59.514Z",
-                    "revision": 116
-                  },
-                  "fields": {
-                    "image": {
-                      "sys": {
-                        "linkType": "Asset",
-                        "id": "1MT2ZEcmqoWMeyiWGQeMEs",
-                        "type": "Link"
-                      }
-                    },
-                    "needLocT3": "Yes",
-                    "ctaAction": "appEvent",
-                    "locReady": false,
-                    "needLocFGJK": "Yes",
-                    "name": "B4",
-                    "ctaData": {
-                      "isPreset": "true",
-                      "description": "728.5 x 1031.81 pt",
-                      "units": "pointsUnit",
-                      "title": "B4",
-                      "thumbnail_url": "SP_PrintDoc.png",
-                      "resolution": 300,
-                      "appSpecificKey": {
-                        "gridColor1": [
-                          65535,
-                          65535,
-                          65535
-                        ],
-                        "gridColor2": [
-                          52428,
-                          52428,
-                          52428
-                        ],
-                        "pixelAspectRatio": 1,
-                        "documentType": 1,
-                        "artboardLayout": 0,
-                        "bleedOffset": [
-                          0,
-                          0,
-                          0,
-                          0
-                        ],
-                        "ppi": 72,
-                        "isArtboardLayoutLeftToRight": "true",
-                        "previewMode": 2,
-                        "mode": "CMYK",
-                        "isATPG": "false",
-                        "transparencyGrid": false,
-                        "artboardRowsOrCols": 1,
-                        "numArtboards": 1,
-                        "width": 612,
-                        "rasterEffectSettings": 300,
-                        "lockBleed": true,
-                        "artboardSpacing": 20,
-                        "height": 792,
-                        "customFile": ""
-                      },
-                      "mode": "CMYK",
-                      "template_category": "print",
-                      "size": 0,
-                      "mime_type": "image/illustrator",
-                      "numArtboards": 1,
-                      "width": 728.5039672851562,
-                      "previews": [],
-                      "tip": "Start a new B4 document - 728.5 x 1031.81 pt",
-                      "id": "",
-                      "price_prompt": "",
-                      "artboardSpacing": 20,
-                      "height": 1031.81103515625
-                    },
-                    "description": "728.5 x 1031.81 pt",
-                    "ctaEvent": "FirstMileEvent.PresetClicked",
-                    "presetType": "Print",
-                    "ctaLog": "A3",
-                    "presetApp": "Illustrator"
-                  }
-                },
-                {
-                  "sys": {
-                    "createdAt": "2019-08-13T22:27:01.746Z",
-                    "environment": {
-                      "sys": {
-                        "linkType": "Environment",
-                        "id": "master",
-                        "type": "Link"
-                      }
-                    },
-                    "id": "31SshSEoTvrvjvRUr7BVlt",
-                    "type": "Entry",
-                    "locale": "en-US",
-                    "contentType": {
-                      "sys": {
-                        "linkType": "ContentType",
-                        "id": "referencePresetLinkMax2019",
-                        "type": "Link"
-                      }
-                    },
-                    "space": {
-                      "sys": {
-                        "linkType": "Space",
-                        "id": "26hmpptqwub2",
-                        "type": "Link"
-                      }
-                    },
-                    "updatedAt": "2019-09-10T04:45:06.521Z",
-                    "revision": 112
-                  },
-                  "fields": {
-                    "image": {
-                      "sys": {
-                        "linkType": "Asset",
-                        "id": "4Y4xCmjRSwAUCyO8yqEcog",
-                        "type": "Link"
-                      }
-                    },
-                    "needLocT3": "Yes",
-                    "ctaAction": "appEvent",
-                    "locReady": false,
-                    "needLocFGJK": "Yes",
-                    "name": "A3",
-                    "ctaData": {
-                      "isPreset": "true",
-                      "description": "1190.55 x 841.89 pt",
-                      "units": "pointsUnit",
-                      "title": "A3",
-                      "thumbnail_url": "SP_PresetArt.png",
-                      "resolution": 72,
-                      "appSpecificKey": {
-                        "gridColor1": [
-                          65535,
-                          65535,
-                          65535
-                        ],
-                        "gridColor2": [
-                          52428,
-                          52428,
-                          52428
-                        ],
-                        "pixelAspectRatio": 1,
-                        "documentType": 5,
-                        "artboardLayout": 0,
-                        "bleedOffset": [
-                          0,
-                          0,
-                          0,
-                          0
-                        ],
-                        "ppi": 72,
-                        "isArtboardLayoutLeftToRight": "true",
-                        "previewMode": 2,
-                        "mode": "RGB",
-                        "isATPG": "false",
-                        "transparencyGrid": false,
-                        "artboardRowsOrCols": 1,
-                        "numArtboards": 1,
-                        "width": 960,
-                        "rasterEffectSettings": 72,
-                        "lockBleed": true,
-                        "artboardSpacing": 20,
-                        "height": 560,
-                        "customFile": ""
-                      },
-                      "mode": "RGB",
-                      "template_category": "art",
-                      "size": 0,
-                      "mime_type": "image/illustrator",
-                      "numArtboards": 1,
-                      "width": 1190.5511474609375,
-                      "previews": [],
-                      "tip": "Start a new A3 document - 1190.55 x 841.89 pt",
-                      "id": "",
-                      "price_prompt": "",
-                      "artboardSpacing": 20,
-                      "height": 841.8898315429688
-                    },
-                    "description": "1190.55 x 841.89 pt",
-                    "ctaEvent": "FirstMileEvent.PresetClicked",
-                    "presetType": "Art & Illustration",
-                    "ctaLog": "A3",
-                    "presetApp": "Illustrator"
-                  }
-                },
-                {
-                  "sys": {
                     "createdAt": "2019-08-13T21:37:44.338Z",
                     "environment": {
                       "sys": {
@@ -1917,12 +1394,12 @@
                     "ctaAction": "appEvent",
                     "locReady": false,
                     "needLocFGJK": "Yes",
-                    "name": "B5",
+                    "name": "Standard",
                     "ctaData": {
                       "isPreset": "true",
                       "description": "515.91 x 728.5 pt",
                       "units": "pointsUnit",
-                      "title": "B5",
+                      "title": "Standard",
                       "thumbnail_url": "SP_PrintDoc.png",
                       "resolution": 300,
                       "appSpecificKey": {
@@ -1976,7 +1453,7 @@
                     "description": "515.91 x 728.5 pt",
                     "ctaEvent": "FirstMileEvent.PresetClicked",
                     "presetType": "Print",
-                    "ctaLog": "B5",
+                    "ctaLog": "Standard",
                     "presetApp": "Illustrator"
                   }
                 },
@@ -2864,12 +2341,12 @@
                     "ctaAction": "appEvent",
                     "locReady": false,
                     "needLocFGJK": "Yes",
-                    "name": "B5",
+                    "name": "Standard",
                     "ctaData": {
                       "isPreset": "true",
                       "description": "728.5 x 515.91 pt",
                       "units": "pointsUnit",
-                      "title": "B5",
+                      "title": "Standard",
                       "thumbnail_url": "SP_PresetArt.png",
                       "resolution": 72,
                       "appSpecificKey": {
@@ -2923,7 +2400,7 @@
                     "description": "728.5 x 515.91 pt",
                     "ctaEvent": "FirstMileEvent.PresetClicked",
                     "presetType": "Art & Illustration",
-                    "ctaLog": "B5",
+                    "ctaLog": "Standard",
                     "presetApp": "Illustrator"
                   }
                 },
@@ -3553,111 +3030,6 @@
                 },
                 {
                   "sys": {
-                    "createdAt": "2019-08-13T21:54:33.915Z",
-                    "environment": {
-                      "sys": {
-                        "linkType": "Environment",
-                        "id": "master",
-                        "type": "Link"
-                      }
-                    },
-                    "id": "6Bl8sIyuSuLE74p95amepO",
-                    "type": "Entry",
-                    "locale": "en-US",
-                    "contentType": {
-                      "sys": {
-                        "linkType": "ContentType",
-                        "id": "referencePresetLinkMax2019",
-                        "type": "Link"
-                      }
-                    },
-                    "space": {
-                      "sys": {
-                        "linkType": "Space",
-                        "id": "26hmpptqwub2",
-                        "type": "Link"
-                      }
-                    },
-                    "updatedAt": "2019-09-10T15:16:18.756Z",
-                    "revision": 113
-                  },
-                  "fields": {
-                    "image": {
-                      "sys": {
-                        "linkType": "Asset",
-                        "id": "4aoq4yEareU2gISgAEemM0",
-                        "type": "Link"
-                      }
-                    },
-                    "needLocT3": "Yes",
-                    "ctaAction": "appEvent",
-                    "locReady": true,
-                    "needLocFGJK": "Yes",
-                    "name": "1280 x 800",
-                    "ctaData": {
-                      "isPreset": "true",
-                      "description": "1280 x 800 px",
-                      "units": "pixelsUnit",
-                      "title": "1280 X 800",
-                      "thumbnail_url": "SP_PresetWebDoc.png",
-                      "resolution": 72,
-                      "appSpecificKey": {
-                        "gridColor1": [
-                          65535,
-                          65535,
-                          65535
-                        ],
-                        "gridColor2": [
-                          52428,
-                          52428,
-                          52428
-                        ],
-                        "pixelAspectRatio": 1,
-                        "documentType": 2,
-                        "artboardLayout": 0,
-                        "bleedOffset": [
-                          0,
-                          0,
-                          0,
-                          0
-                        ],
-                        "ppi": 72,
-                        "isArtboardLayoutLeftToRight": "true",
-                        "previewMode": 2,
-                        "mode": "RGB",
-                        "isATPG": "false",
-                        "transparencyGrid": false,
-                        "artboardRowsOrCols": 1,
-                        "numArtboards": 1,
-                        "width": 960,
-                        "rasterEffectSettings": 72,
-                        "lockBleed": true,
-                        "artboardSpacing": 20,
-                        "height": 560,
-                        "customFile": ""
-                      },
-                      "mode": "RGB",
-                      "template_category": "web",
-                      "size": 0,
-                      "mime_type": "image/illustrator",
-                      "numArtboards": 1,
-                      "width": 1280,
-                      "previews": [],
-                      "tip": "Start a new 1280 X 800 document - 1280 x 800 px",
-                      "id": "",
-                      "price_prompt": "",
-                      "artboardSpacing": 20,
-                      "height": 800
-                    },
-                    "description": "1280 x 800 px",
-                    "ctaEvent": "FirstMileEvent.PresetClicked",
-                    "presetType": "Web",
-                    "ctaLog": "1280 x 800",
-                    "presetApp": "Illustrator"
-                  }
-                },
-                {
-                  "sys": {
                     "createdAt": "2019-08-10T20:49:16.916Z",
                     "environment": {
                       "sys": {
@@ -3890,12 +3262,12 @@
                     "ctaAction": "appEvent",
                     "locReady": true,
                     "needLocFGJK": "Yes",
-                    "name": "Minimum",
+                    "name": "Banner 468 x 60",
                     "ctaData": {
                       "isPreset": "true",
                       "description": "1024 x 768 px",
                       "units": "pixelsUnit",
-                      "title": "Minimum",
+                      "title": "Banner 468 x 60",
                       "thumbnail_url": "SP_PresetWebDoc.png",
                       "resolution": 72,
                       "appSpecificKey": {
@@ -3949,7 +3321,7 @@
                     "description": "1024 x 768 px",
                     "ctaEvent": "FirstMileEvent.PresetClicked",
                     "presetType": "Web",
-                    "ctaLog": "Minimum",
+                    "ctaLog": "Banner 468 x 60",
                     "presetApp": "Illustrator"
                   }
                 },
@@ -4784,111 +4156,6 @@
                 },
                 {
                   "sys": {
-                    "createdAt": "2019-08-13T22:23:03.147Z",
-                    "environment": {
-                      "sys": {
-                        "linkType": "Environment",
-                        "id": "master",
-                        "type": "Link"
-                      }
-                    },
-                    "id": "7mGmyeXa3zHBRVy4Omu2Wf",
-                    "type": "Entry",
-                    "locale": "en-US",
-                    "contentType": {
-                      "sys": {
-                        "linkType": "ContentType",
-                        "id": "referencePresetLinkMax2019",
-                        "type": "Link"
-                      }
-                    },
-                    "space": {
-                      "sys": {
-                        "linkType": "Space",
-                        "id": "26hmpptqwub2",
-                        "type": "Link"
-                      }
-                    },
-                    "updatedAt": "2019-09-10T04:46:22.980Z",
-                    "revision": 112
-                  },
-                  "fields": {
-                    "image": {
-                      "sys": {
-                        "linkType": "Asset",
-                        "id": "4Y4xCmjRSwAUCyO8yqEcog",
-                        "type": "Link"
-                      }
-                    },
-                    "needLocT3": "Yes",
-                    "ctaAction": "appEvent",
-                    "locReady": false,
-                    "needLocFGJK": "Yes",
-                    "name": "Full HD ",
-                    "ctaData": {
-                      "isPreset": "true",
-                      "description": "841.89 x 595.28 pt",
-                      "units": "pointsUnit",
-                      "title": "Full HD",
-                      "thumbnail_url": "SP_PresetArt.png",
-                      "resolution": 72,
-                      "appSpecificKey": {
-                        "gridColor1": [
-                          65535,
-                          65535,
-                          65535
-                        ],
-                        "gridColor2": [
-                          52428,
-                          52428,
-                          52428
-                        ],
-                        "pixelAspectRatio": 1,
-                        "documentType": 5,
-                        "artboardLayout": 0,
-                        "bleedOffset": [
-                          0,
-                          0,
-                          0,
-                          0
-                        ],
-                        "ppi": 72,
-                        "isArtboardLayoutLeftToRight": "true",
-                        "previewMode": 2,
-                        "mode": "RGB",
-                        "isATPG": "false",
-                        "transparencyGrid": false,
-                        "artboardRowsOrCols": 1,
-                        "numArtboards": 1,
-                        "width": 960,
-                        "rasterEffectSettings": 72,
-                        "lockBleed": true,
-                        "artboardSpacing": 20,
-                        "height": 560,
-                        "customFile": ""
-                      },
-                      "mode": "RGB",
-                      "template_category": "art",
-                      "size": 0,
-                      "mime_type": "image/illustrator",
-                      "numArtboards": 1,
-                      "width": 841.8898315429688,
-                      "previews": [],
-                      "tip": "Start a new A4 document - 841.89 x 595.28 pt",
-                      "id": "",
-                      "price_prompt": "",
-                      "artboardSpacing": 20,
-                      "height": 595.2755737304688
-                    },
-                    "description": "841.89 x 595.28 pt",
-                    "ctaEvent": "FirstMileEvent.PresetClicked",
-                    "presetType": "Art & Illustration",
-                    "ctaLog": "Full HD",
-                    "presetApp": "Illustrator"
-                  }
-                },
-                {
-                  "sys": {
                     "createdAt": "2019-08-13T22:16:53.299Z",
                     "environment": {
                       "sys": {
@@ -5149,12 +4416,12 @@
                     "ctaAction": "appEvent",
                     "locReady": true,
                     "needLocFGJK": "Yes",
-                    "name": "Web",
+                    "name": "Sky scrapper 120 x 600",
                     "ctaData": {
                       "isPreset": "true",
                       "description": "1280 x 1024 px",
                       "units": "pixelsUnit",
-                      "title": "Web",
+                      "title": "Sky scrapper 120 x 600",
                       "thumbnail_url": "SP_PresetWebDoc.png",
                       "resolution": 72,
                       "appSpecificKey": {
@@ -5208,7 +4475,7 @@
                     "description": "1280 x 1024 px",
                     "ctaEvent": "FirstMileEvent.PresetClicked",
                     "presetType": "Web",
-                    "ctaLog": "Web",
+                    "ctaLog": "Sky scrapper 120 x 600",
                     "presetApp": "Illustrator"
                   }
                 },
@@ -5296,12 +4563,12 @@
                     "ctaAction": "appEvent",
                     "locReady": true,
                     "needLocFGJK": "Yes",
-                    "name": "Web-Large",
+                    "name": "Leader Board 728 x 90",
                     "ctaData": {
                       "isPreset": "true",
                       "description": "1920 x 1080 px",
                       "units": "pixelsUnit",
-                      "title": "Web-Large",
+                      "title": "Leader Board 728 x 90",
                       "thumbnail_url": "SP_PresetWebDoc.png",
                       "resolution": 72,
                       "appSpecificKey": {
@@ -5463,7 +4730,7 @@
                     "ctaAction": "appEvent",
                     "locReady": true,
                     "needLocFGJK": "Yes",
-                    "name": " iPad Pro",
+                    "name": "Android 16:9",
                     "ctaData": {
                       "isPreset": "true",
                       "description": "2048 x 2732 px",
@@ -5556,14 +4823,14 @@
                       "fileName": "ai_poster_icon_over.svg",
                       "details": {
                         "image": {
-                          "width": 39,
-                          "height": 51
+                          "width": 96,
+                          "height": 96
                         },
                         "size": 871
                       },
                       "contentType": "image/svg+xml",
                       "url": "https://cvs.adobe.com/content/dam/cvs/firstmile/V2/264/3EcZx53OACSOU6ggXaVux9/assets/1MT2ZEcmqoWMeyiWGQeMEs-ai_poster_icon_over.svg",
-                      "path": "assets/FLPR-20.0.0-en_US-paid-7cdfb0e7-fa24-490e-a388-e21892c214a0.svg"
+                      "path": "assets/FLPR-20.0.0-en_US-paid-65b63640-0993-45b8-8b4d-e091888282ab.svg"
                     },
                     "title": "ai poster icon over"
                   }
@@ -5603,7 +4870,7 @@
                       },
                       "contentType": "image/jpeg",
                       "url": "https://raw.githubusercontent.com/schundru/TestRepo/master/An_FM_Exp_WhatsNew_1Third.jpg",
-                      "path": "assets/FLPR-20.0.0-en_US-paid-908d2702-3b82-42d3-b609-cca4eccb4b1f.jpeg"
+                      "path": "assets/FLPR-20.0.0-en_US-paid-1b2b8474-f640-4c0b-8a8f-a443a0cde805.jpeg"
                     },
                     "title": "Ai FM Exp WhatsNew 1Third"
                   }
@@ -5643,7 +4910,7 @@
                       },
                       "contentType": "image/svg+xml",
                       "url": "https://cvs.adobe.com/content/dam/cvs/firstmile/V2/264/3EcZx53OACSOU6ggXaVux9/assets/4Y4xCmjRSwAUCyO8yqEcog-ai_a4_icon_over.svg",
-                      "path": "assets/FLPR-20.0.0-en_US-paid-565c9bc3-6295-455e-b5d8-1a043f8d3c29.svg"
+                      "path": "assets/FLPR-20.0.0-en_US-paid-8294dcd9-b07b-4045-8784-0bc2c5a09ff5.svg"
                     },
                     "title": "Full HD"
                   }
@@ -5683,7 +4950,7 @@
                       },
                       "contentType": "image/svg+xml",
                       "url": "https://cvs.adobe.com/content/dam/cvs/firstmile/V2/264/3EcZx53OACSOU6ggXaVux9/assets/4aoq4yEareU2gISgAEemM0-ai_webpage_icon_over.svg",
-                      "path": "assets/FLPR-20.0.0-en_US-paid-d54a1e8f-7827-49f5-bce5-2d4d888a3216.svg"
+                      "path": "assets/FLPR-20.0.0-en_US-paid-eba65578-e35c-4c13-943a-b3edd790a7b2.svg"
                     },
                     "title": "ai webpage icon over"
                   }
@@ -5723,7 +4990,7 @@
                       },
                       "contentType": "image/svg+xml",
                       "url": "https://cvs.adobe.com/content/dam/cvs/firstmile/V2/264/3EcZx53OACSOU6ggXaVux9/assets/5lbBP7bPvGuGC4csOgQmqw-ai_iphone_icon_over.svg",
-                      "path": "assets/FLPR-20.0.0-en_US-paid-eef29a91-8b90-4a38-8781-db6a3cc6a96a.svg"
+                      "path": "assets/FLPR-20.0.0-en_US-paid-692f211f-7dcf-46d6-a4ee-d7ee86d98e0d.svg"
                     },
                     "title": "ai iphone icon over"
                   }
@@ -5763,7 +5030,7 @@
                       },
                       "contentType": "image/jpeg",
                       "url": "https://raw.githubusercontent.com/schundru/TestRepo/master/An_FM_Exp_WhatsNew_1Third.jpg",
-                      "path": "assets/FLPR-20.0.0-en_US-paid-908d2702-3b82-42d3-b609-cca4eccb4b1f.jpeg"
+                      "path": "assets/FLPR-20.0.0-en_US-paid-1b2b8474-f640-4c0b-8a8f-a443a0cde805.jpeg"
                     },
                     "title": "Ai FM Beg Video 1Third (1)"
                   }
@@ -5803,7 +5070,7 @@
                       },
                       "contentType": "image/jpeg",
                       "url": "https://raw.githubusercontent.com/schundru/TestRepo/master/An_FM_Exp_WhatsNew_2Third.jpg",
-                      "path": "assets/FLPR-20.0.0-en_US-paid-2f2c3375-2e5d-4694-b684-910c8e8eec60.jpeg"
+                      "path": "assets/FLPR-20.0.0-en_US-paid-ca9587ce-0211-4659-a953-8c5d3f622728.jpeg"
                     },
                     "title": "Ai FM Exp WhatsNew 2third"
                   }
@@ -5843,7 +5110,7 @@
                       },
                       "contentType": "image/svg+xml",
                       "url": "https://cvs.adobe.com/content/dam/cvs/firstmile/V2/264/3EcZx53OACSOU6ggXaVux9/assets/6UfkPhbHpTrzuIgwhVEDkW-ai_link_to_learn_s.svg",
-                      "path": "assets/FLPR-20.0.0-en_US-paid-4f151046-5548-4b13-bc61-a2fd40e65a62.svg"
+                      "path": "assets/FLPR-20.0.0-en_US-paid-4a6ba538-ab44-423f-b716-6320462bec1f.svg"
                     },
                     "title": "ai link to learn s"
                   }
@@ -5883,7 +5150,7 @@
                       },
                       "contentType": "image/svg+xml",
                       "url": "https://cvs.adobe.com/content/dam/cvs/firstmile/V2/264/3EcZx53OACSOU6ggXaVux9/assets/79ZdhUU2Yg0S4uWGmKIwks-ai_hdtv_icon_over.svg",
-                      "path": "assets/FLPR-20.0.0-en_US-paid-86e74766-f0ed-491b-9f8c-ae0a0332498d.svg"
+                      "path": "assets/FLPR-20.0.0-en_US-paid-4214086a-e8e6-4285-b9c4-cfd8cafe07f5.svg"
                     },
                     "title": "HDTV ICOn"
                   }
@@ -5923,7 +5190,7 @@
                       },
                       "contentType": "image/svg+xml",
                       "url": "https://cvs.adobe.com/content/dam/cvs/firstmile/V2/264/3EcZx53OACSOU6ggXaVux9/assets/7BUgmgrhzpyeDP2qMBnT6X-ai_more_icon_over.svg",
-                      "path": "assets/FLPR-20.0.0-en_US-paid-e8716ea6-9f32-4ff2-8e82-99543d92996d.svg"
+                      "path": "assets/FLPR-20.0.0-en_US-paid-3da2ec53-b691-4efe-9919-982aa450e40b.svg"
                     },
                     "title": "More Presets Asset"
                   }
@@ -5963,7 +5230,7 @@
                       },
                       "contentType": "image/jpeg",
                       "url": "https://raw.githubusercontent.com/schundru/TestRepo/master/An_FM_Exp_WhatsNew_2Third.jpg",
-                      "path": "assets/FLPR-20.0.0-en_US-paid-2f2c3375-2e5d-4694-b684-910c8e8eec60.jpeg"
+                      "path": "assets/FLPR-20.0.0-en_US-paid-ca9587ce-0211-4659-a953-8c5d3f622728.jpeg"
                     },
                     "title": "Ai FM Ent Video 2third (3)"
                   }
