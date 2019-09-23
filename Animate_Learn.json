@@ -1,715 +1,579 @@
 {
-   "total":1,
-   "limit":100,
-   "skip":0,
-   "includes":{
-      "Entry":[
-         {
-            "sys":{
-               "createdAt":"2018-06-08T14:24:00.616Z",
-               "environment":{
-                  "sys":{
-                     "linkType":"Environment",
-                     "id":"master",
-                     "type":"Link"
-                  }
-               },
-               "id":"15kbp6nMI0uEWqYugGmQS4",
-               "type":"Entry",
-               "locale":"en-US",
-               "contentType":{
-                  "sys":{
-                     "linkType":"ContentType",
-                     "id":"learnFeedInApp",
-                     "type":"Link"
-                  }
-               },
-               "space":{
-                  "sys":{
-                     "linkType":"Space",
-                     "id":"26hmpptqwub2",
-                     "type":"Link"
-                  }
-               },
-               "updatedAt":"2019-09-17T14:49:32.635Z",
-               "revision":1904
-            },
-            "fields":{
-               "needLocT3":"Yes",
-               "headerText":"Hands-on tutorials",
-               "locReady":true,
-               "needLocFGJK":"Yes",
-               "descriptionText":"These let you follow step-by-step instructions in the app."
-            }
-         },
-         {
-            "sys":{
-               "createdAt":"2019-08-17T21:40:02.663Z",
-               "environment":{
-                  "sys":{
-                     "linkType":"Environment",
-                     "id":"master",
-                     "type":"Link"
-                  }
-               },
-               "id":"1JmhxKq5mBCm9EephzgOi2",
-               "type":"Entry",
-               "locale":"en-US",
-               "contentType":{
-                  "sys":{
-                     "linkType":"ContentType",
-                     "id":"layoutLearnAllMax2019",
-                     "type":"Link"
-                  }
-               },
-               "space":{
-                  "sys":{
-                     "linkType":"Space",
-                     "id":"26hmpptqwub2",
-                     "type":"Link"
-                  }
-               },
-               "updatedAt":"2019-08-17T21:40:10.259Z",
-               "revision":2
-            },
-            "fields":{
-               "inAppTuts":{
-                  "sys":{
-                     "linkType":"Entry",
-                     "id":"15kbp6nMI0uEWqYugGmQS4",
-                     "type":"Link"
-                  }
-               },
-               "footer":{
-                  "sys":{
-                     "linkType":"Entry",
-                     "id":"enIYgEyROwoKeaAOE4ukc",
-                     "type":"Link"
-                  }
-               },
-               "layoutName":"PS Learn Max 19 EFGJK",
-               "webTuts":{
-                  "sys":{
-                     "linkType":"Entry",
-                     "id":"2sipaOMHhq8o4Soao6oaEw",
-                     "type":"Link"
-                  }
-               }
-            }
-         },
-         {
-            "sys":{
-               "createdAt":"2018-06-11T19:49:58.787Z",
-               "environment":{
-                  "sys":{
-                     "linkType":"Environment",
-                     "id":"master",
-                     "type":"Link"
-                  }
-               },
-               "id":"25IIvpUOqkM0IEmeGy46C8",
-               "type":"Entry",
-               "locale":"en-US",
-               "contentType":{
-                  "sys":{
-                     "linkType":"ContentType",
-                     "id":"imageLink",
-                     "type":"Link"
-                  }
-               },
-               "space":{
-                  "sys":{
-                     "linkType":"Space",
-                     "id":"26hmpptqwub2",
-                     "type":"Link"
-                  }
-               },
-               "updatedAt":"2018-06-29T14:08:41.138Z",
-               "revision":2
-            },
-            "fields":{
-               "image":{
-                  "sys":{
-                     "linkType":"Asset",
-                     "id":"jeS7x8lUNayycS8QECMoo",
-                     "type":"Link"
-                  }
-               },
-               "ctaAction":"externalURL",
-               "ctaLog":"FInd other languages online ",
-               "title":"FInd other languages online "
-            }
-         },
-         {
-            "sys":{
-               "createdAt":"2018-07-18T21:14:44.073Z",
-               "environment":{
-                  "sys":{
-                     "linkType":"Environment",
-                     "id":"master",
-                     "type":"Link"
-                  }
-               },
-               "id":"2ZCKUVIJLGu6ycek2MAia6",
-               "type":"Entry",
-               "locale":"en-US",
-               "contentType":{
-                  "sys":{
-                     "linkType":"ContentType",
-                     "id":"textLink",
-                     "type":"Link"
-                  }
-               },
-               "space":{
-                  "sys":{
-                     "linkType":"Space",
-                     "id":"26hmpptqwub2",
-                     "type":"Link"
-                  }
-               },
-               "updatedAt":"2018-07-18T21:14:44.073Z",
-               "revision":1
-            },
-            "fields":{
-               "ctaURL":"https://helpx.adobe.com/photoshop/tutorials.html",
-               "cta":"English",
-               "needLocT3":"No",
-               "ctaAction":"externalURL",
-               "needLocFGJK":"No",
-               "style":"hyperlink",
-               "ctaLog":"English",
-               "title":"NoLoc - English Link PS"
-            }
-         },
-         {
-            "sys":{
-               "createdAt":"2018-06-08T14:24:44.058Z",
-               "environment":{
-                  "sys":{
-                     "linkType":"Environment",
-                     "id":"master",
-                     "type":"Link"
-                  }
-               },
-               "id":"2sipaOMHhq8o4Soao6oaEw",
-               "type":"Entry",
-               "locale":"en-US",
-               "contentType":{
-                  "sys":{
-                     "linkType":"ContentType",
-                     "id":"learnFeedWeb",
-                     "type":"Link"
-                  }
-               },
-               "space":{
-                  "sys":{
-                     "linkType":"Space",
-                     "id":"26hmpptqwub2",
-                     "type":"Link"
-                  }
-               },
-               "updatedAt":"2019-09-17T15:00:29.472Z",
-               "revision":2019
-            },
-            "fields":{
-               "needLocT3":"Yes",
-               "headerText":"Tutorials on the web",
-               "locReady":true,
-               "needLocFGJK":"Yes",
-               "descriptionText":"These open in a browser."
-            }
-         },
-         {
-            "sys":{
-               "createdAt":"2019-08-17T21:41:21.662Z",
-               "environment":{
-                  "sys":{
-                     "linkType":"Environment",
-                     "id":"master",
-                     "type":"Link"
-                  }
-               },
-               "id":"3cRY1Pab5TCnDvgWt6riKL",
-               "type":"Entry",
-               "locale":"en-US",
-               "contentType":{
-                  "sys":{
-                     "linkType":"ContentType",
-                     "id":"layoutLearnLocMax2019",
-                     "type":"Link"
-                  }
-               },
-               "space":{
-                  "sys":{
-                     "linkType":"Space",
-                     "id":"26hmpptqwub2",
-                     "type":"Link"
-                  }
-               },
-               "updatedAt":"2019-08-17T21:41:21.662Z",
-               "revision":1
-            },
-            "fields":{
-               "middle":{
-                  "sys":{
-                     "linkType":"Entry",
-                     "id":"4J3TbUke6IEOC8U26UYy46",
-                     "type":"Link"
-                  }
-               },
-               "inAppTuts":{
-                  "sys":{
-                     "linkType":"Entry",
-                     "id":"15kbp6nMI0uEWqYugGmQS4",
-                     "type":"Link"
-                  }
-               },
-               "layoutName":"Ps Learn Max 19 T3",
-               "webTuts":{
-                  "sys":{
-                     "linkType":"Entry",
-                     "id":"2sipaOMHhq8o4Soao6oaEw",
-                     "type":"Link"
-                  }
-               }
-            }
-         },
-         {
-            "sys":{
-               "createdAt":"2018-06-08T21:33:08.544Z",
-               "environment":{
-                  "sys":{
-                     "linkType":"Environment",
-                     "id":"master",
-                     "type":"Link"
-                  }
-               },
-               "id":"4J3TbUke6IEOC8U26UYy46",
-               "type":"Entry",
-               "locale":"en-US",
-               "contentType":{
-                  "sys":{
-                     "linkType":"ContentType",
-                     "id":"bannerMultiLink",
-                     "type":"Link"
-                  }
-               },
-               "space":{
-                  "sys":{
-                     "linkType":"Space",
-                     "id":"26hmpptqwub2",
-                     "type":"Link"
-                  }
-               },
-               "updatedAt":"2019-09-17T17:47:50.298Z",
-               "revision":1897
-            },
-            "fields":{
-               "needLocT3":"Yes",
-               "textPosition":"centerTop",
-               "headerText":"",
-               "surfaces":[
-                  "HomeScreenLearn"
-               ],
-               "locReady":true,
-               "needLocFGJK":"No",
-               "links":[
-                  {
-                     "sys":{
-                        "linkType":"Entry",
-                        "id":"2ZCKUVIJLGu6ycek2MAia6",
-                        "type":"Link"
-                     }
+            "total": 1,
+            "limit": 100,
+            "skip": 0,
+            "includes": {
+              "Entry": [
+                {
+                  "sys": {
+                    "createdAt": "2018-07-18T21:19:56.506Z",
+                    "environment": {
+                      "sys": {
+                        "linkType": "Environment",
+                        "id": "master",
+                        "type": "Link"
+                      }
+                    },
+                    "id": "2KFLlsQHUkw0uqa4GKMCSa",
+                    "type": "Entry",
+                    "locale": "en-US",
+                    "contentType": {
+                      "sys": {
+                        "linkType": "ContentType",
+                        "id": "textLink",
+                        "type": "Link"
+                      }
+                    },
+                    "space": {
+                      "sys": {
+                        "linkType": "Space",
+                        "id": "26hmpptqwub2",
+                        "type": "Link"
+                      }
+                    },
+                    "updatedAt": "2018-07-18T21:19:56.506Z",
+                    "revision": 1
                   },
-                  {
-                     "sys":{
-                        "linkType":"Entry",
-                        "id":"4T7lxkVQaASkIQ0oIsIQ4I",
-                        "type":"Link"
-                     }
+                  "fields": {
+                    "ctaURL": "https://helpx.adobe.com/jp/illustrator/tutorials.html",
+                    "cta": "日本語",
+                    "needLocT3": "No",
+                    "ctaAction": "externalURL",
+                    "needLocFGJK": "No",
+                    "style": "hyperlink",
+                    "ctaLog": "日本語",
+                    "title": "NoLoc - Japanese link ai"
+                  }
+                },
+                {
+                  "sys": {
+                    "createdAt": "2018-06-08T14:24:44.058Z",
+                    "environment": {
+                      "sys": {
+                        "linkType": "Environment",
+                        "id": "master",
+                        "type": "Link"
+                      }
+                    },
+                    "id": "2sipaOMHhq8o4Soao6oaEw",
+                    "type": "Entry",
+                    "locale": "en-US",
+                    "contentType": {
+                      "sys": {
+                        "linkType": "ContentType",
+                        "id": "learnFeedWeb",
+                        "type": "Link"
+                      }
+                    },
+                    "space": {
+                      "sys": {
+                        "linkType": "Space",
+                        "id": "26hmpptqwub2",
+                        "type": "Link"
+                      }
+                    },
+                    "updatedAt": "2019-09-10T15:00:49.276Z",
+                    "revision": 2007
                   },
-                  {
-                     "sys":{
-                        "linkType":"Entry",
-                        "id":"7d9Cw2EWl2eUaWiSg66c4O",
-                        "type":"Link"
-                     }
+                  "fields": {
+                    "needLocT3": "Yes",
+                    "headerText": "Tutorials on the web",
+                    "locReady": true,
+                    "needLocFGJK": "Yes",
+                    "descriptionText": "These open in a browser."
+                  }
+                },
+                {
+                  "sys": {
+                    "createdAt": "2018-07-18T21:20:11.196Z",
+                    "environment": {
+                      "sys": {
+                        "linkType": "Environment",
+                        "id": "master",
+                        "type": "Link"
+                      }
+                    },
+                    "id": "3NdXILEVbGiGKoEsIa8qsE",
+                    "type": "Entry",
+                    "locale": "en-US",
+                    "contentType": {
+                      "sys": {
+                        "linkType": "ContentType",
+                        "id": "textLink",
+                        "type": "Link"
+                      }
+                    },
+                    "space": {
+                      "sys": {
+                        "linkType": "Space",
+                        "id": "26hmpptqwub2",
+                        "type": "Link"
+                      }
+                    },
+                    "updatedAt": "2018-07-18T21:20:11.196Z",
+                    "revision": 1
                   },
-                  {
-                     "sys":{
-                        "linkType":"Entry",
-                        "id":"6DxuQ9BFOoWiQKo22Wqwec",
-                        "type":"Link"
-                     }
+                  "fields": {
+                    "ctaURL": "https://helpx.adobe.com/de/illustrator/tutorials.html",
+                    "cta": "Deutsch",
+                    "needLocT3": "No",
+                    "ctaAction": "externalURL",
+                    "needLocFGJK": "No",
+                    "style": "hyperlink",
+                    "ctaLog": "Deutsch",
+                    "title": "NoLoc - German Link ai"
+                  }
+                },
+                {
+                  "sys": {
+                    "createdAt": "2018-07-18T21:18:33.584Z",
+                    "environment": {
+                      "sys": {
+                        "linkType": "Environment",
+                        "id": "master",
+                        "type": "Link"
+                      }
+                    },
+                    "id": "4lelXkVKEEe62OG8uIQ8Iq",
+                    "type": "Entry",
+                    "locale": "en-US",
+                    "contentType": {
+                      "sys": {
+                        "linkType": "ContentType",
+                        "id": "textLink",
+                        "type": "Link"
+                      }
+                    },
+                    "space": {
+                      "sys": {
+                        "linkType": "Space",
+                        "id": "26hmpptqwub2",
+                        "type": "Link"
+                      }
+                    },
+                    "updatedAt": "2018-07-18T21:18:33.584Z",
+                    "revision": 1
                   },
-                  {
-                     "sys":{
-                        "linkType":"Entry",
-                        "id":"4XzoQoCM12A6SGoYAi68Qe",
-                        "type":"Link"
-                     }
+                  "fields": {
+                    "ctaURL": "https://helpx.adobe.com/illustrator/tutorials.html",
+                    "cta": "English",
+                    "needLocT3": "No",
+                    "ctaAction": "externalURL",
+                    "needLocFGJK": "No",
+                    "style": "hyperlink",
+                    "ctaLog": "English",
+                    "title": "NoLoc - English Link Ai"
                   }
-               ],
-               "descriptionText":"Available languages",
-               "title":"Multi links - Find even more tutorials Ps",
-               "sideImage":{
-                  "sys":{
-                     "linkType":"Entry",
-                     "id":"25IIvpUOqkM0IEmeGy46C8",
-                     "type":"Link"
-                  }
-               },
-               "apps":[
-                  "animate_cc"
-               ]
-            }
-         },
-         {
-            "sys":{
-               "createdAt":"2018-07-18T21:15:35.018Z",
-               "environment":{
-                  "sys":{
-                     "linkType":"Environment",
-                     "id":"master",
-                     "type":"Link"
-                  }
-               },
-               "id":"4T7lxkVQaASkIQ0oIsIQ4I",
-               "type":"Entry",
-               "locale":"en-US",
-               "contentType":{
-                  "sys":{
-                     "linkType":"ContentType",
-                     "id":"textLink",
-                     "type":"Link"
-                  }
-               },
-               "space":{
-                  "sys":{
-                     "linkType":"Space",
-                     "id":"26hmpptqwub2",
-                     "type":"Link"
-                  }
-               },
-               "updatedAt":"2018-07-18T21:15:35.018Z",
-               "revision":1
-            },
-            "fields":{
-               "ctaURL":" https://helpx.adobe.com/fr/photoshop/tutorials.html",
-               "cta":"Français",
-               "needLocT3":"No",
-               "ctaAction":"externalURL",
-               "needLocFGJK":"No",
-               "style":"hyperlink",
-               "ctaLog":"Français",
-               "title":"NoLoc - French Link PS"
-            }
-         },
-         {
-            "sys":{
-               "createdAt":"2018-07-18T21:15:10.001Z",
-               "environment":{
-                  "sys":{
-                     "linkType":"Environment",
-                     "id":"master",
-                     "type":"Link"
-                  }
-               },
-               "id":"4XzoQoCM12A6SGoYAi68Qe",
-               "type":"Entry",
-               "locale":"en-US",
-               "contentType":{
-                  "sys":{
-                     "linkType":"ContentType",
-                     "id":"textLink",
-                     "type":"Link"
-                  }
-               },
-               "space":{
-                  "sys":{
-                     "linkType":"Space",
-                     "id":"26hmpptqwub2",
-                     "type":"Link"
-                  }
-               },
-               "updatedAt":"2018-07-18T21:15:10.001Z",
-               "revision":1
-            },
-            "fields":{
-               "ctaURL":"https://helpx.adobe.com/kr/photoshop/tutorials.html",
-               "cta":"한국어",
-               "needLocT3":"No",
-               "ctaAction":"externalURL",
-               "needLocFGJK":"No",
-               "style":"hyperlink",
-               "ctaLog":"한국어",
-               "title":"NoLoc - Korean Link PS"
-            }
-         },
-         {
-            "sys":{
-               "createdAt":"2018-06-08T14:16:46.111Z",
-               "environment":{
-                  "sys":{
-                     "linkType":"Environment",
-                     "id":"master",
-                     "type":"Link"
-                  }
-               },
-               "id":"5Xta0HBvVeegOy0yWyi2Ii",
-               "type":"Entry",
-               "locale":"en-US",
-               "contentType":{
-                  "sys":{
-                     "linkType":"ContentType",
-                     "id":"textLink",
-                     "type":"Link"
-                  }
-               },
-               "space":{
-                  "sys":{
-                     "linkType":"Space",
-                     "id":"26hmpptqwub2",
-                     "type":"Link"
-                  }
-               },
-               "updatedAt":"2019-09-17T15:13:57.917Z",
-               "revision":1875
-            },
-            "fields":{
-               "ctaURL":"",
-               "cta":"",
-               "needLocT3":"Yes",
-               "ctaAction":"externalURL",
-               "locReady":true,
-               "needLocFGJK":"Yes",
-               "style":"default",
-               "ctaLog":"",
-               "title":"Go to Adobe.com PS"
-            }
-         },
-         {
-            "sys":{
-               "createdAt":"2018-07-18T21:15:23.128Z",
-               "environment":{
-                  "sys":{
-                     "linkType":"Environment",
-                     "id":"master",
-                     "type":"Link"
-                  }
-               },
-               "id":"6DxuQ9BFOoWiQKo22Wqwec",
-               "type":"Entry",
-               "locale":"en-US",
-               "contentType":{
-                  "sys":{
-                     "linkType":"ContentType",
-                     "id":"textLink",
-                     "type":"Link"
-                  }
-               },
-               "space":{
-                  "sys":{
-                     "linkType":"Space",
-                     "id":"26hmpptqwub2",
-                     "type":"Link"
-                  }
-               },
-               "updatedAt":"2018-07-18T21:15:23.128Z",
-               "revision":1
-            },
-            "fields":{
-               "ctaURL":"https://helpx.adobe.com/jp/photoshop/tutorials.html",
-               "cta":"日本語",
-               "needLocT3":"No",
-               "ctaAction":"externalURL",
-               "needLocFGJK":"No",
-               "style":"hyperlink",
-               "ctaLog":"日本語",
-               "title":"NoLoc - Japanese link PS"
-            }
-         },
-         {
-            "sys":{
-               "createdAt":"2018-07-18T21:14:59.501Z",
-               "environment":{
-                  "sys":{
-                     "linkType":"Environment",
-                     "id":"master",
-                     "type":"Link"
-                  }
-               },
-               "id":"7d9Cw2EWl2eUaWiSg66c4O",
-               "type":"Entry",
-               "locale":"en-US",
-               "contentType":{
-                  "sys":{
-                     "linkType":"ContentType",
-                     "id":"textLink",
-                     "type":"Link"
-                  }
-               },
-               "space":{
-                  "sys":{
-                     "linkType":"Space",
-                     "id":"26hmpptqwub2",
-                     "type":"Link"
-                  }
-               },
-               "updatedAt":"2018-07-18T21:14:59.501Z",
-               "revision":1
-            },
-            "fields":{
-               "ctaURL":"https://helpx.adobe.com/de/photoshop/tutorials.html",
-               "cta":"Deutsch",
-               "needLocT3":"No",
-               "ctaAction":"externalURL",
-               "needLocFGJK":"No",
-               "style":"hyperlink",
-               "ctaLog":"Deutsch",
-               "title":"NoLoc - German Link PS"
-            }
-         },
-         {
-            "sys":{
-               "createdAt":"2018-06-08T14:17:23.905Z",
-               "environment":{
-                  "sys":{
-                     "linkType":"Environment",
-                     "id":"master",
-                     "type":"Link"
-                  }
-               },
-               "id":"enIYgEyROwoKeaAOE4ukc",
-               "type":"Entry",
-               "locale":"en-US",
-               "contentType":{
-                  "sys":{
-                     "linkType":"ContentType",
-                     "id":"bannerBasic",
-                     "type":"Link"
-                  }
-               },
-               "space":{
-                  "sys":{
-                     "linkType":"Space",
-                     "id":"26hmpptqwub2",
-                     "type":"Link"
-                  }
-               },
-               "updatedAt":"2019-09-17T15:26:35.490Z",
-               "revision":979
-            },
-            "fields":{
-               "needLocT3":"Yes",
-               "textPosition":"centerMiddle",
-               "headerText":"",
-               "surfaces":[
-                  "homeScreenLearn"
-               ],
-               "locReady":true,
-               "needLocFGJK":"Yes",
-               "title":"PS - Learn - Find More Tutorials - Footer",
-               "apps":[
-                  "animate_cc"
-               ]
-            }
-         }
-      ],
-      "Asset":[
-         {
-            "sys":{
-               "createdAt":"2018-06-11T19:48:52.762Z",
-               "environment":{
-                  "sys":{
-                     "linkType":"Environment",
-                     "id":"master",
-                     "type":"Link"
-                  }
-               },
-               "id":"jeS7x8lUNayycS8QECMoo",
-               "type":"Asset",
-               "locale":"en-US",
-               "space":{
-                  "sys":{
-                     "linkType":"Space",
-                     "id":"26hmpptqwub2",
-                     "type":"Link"
-                  }
-               },
-               "updatedAt":"2019-09-17T17:52:14.965Z",
-               "revision":2
-            },
-            "fields":{
-               "file":{
-                  "fileName":"loc_language_icon_over.png",
-                  "details":{
-                     "image":{
-                        "width":415,
-                        "height":240
-                     },
-                     "size":13037
+                },
+                {
+                  "sys": {
+                    "createdAt": "2018-09-24T22:44:59.813Z",
+                    "environment": {
+                      "sys": {
+                        "linkType": "Environment",
+                        "id": "master",
+                        "type": "Link"
+                      }
+                    },
+                    "id": "5TjV7MYqIgM0CyIicqeYA",
+                    "type": "Entry",
+                    "locale": "en-US",
+                    "contentType": {
+                      "sys": {
+                        "linkType": "ContentType",
+                        "id": "bannerMultiLink",
+                        "type": "Link"
+                      }
+                    },
+                    "space": {
+                      "sys": {
+                        "linkType": "Space",
+                        "id": "26hmpptqwub2",
+                        "type": "Link"
+                      }
+                    },
+                    "updatedAt": "2019-09-10T15:29:22.558Z",
+                    "revision": 1436
                   },
-                  "contentType":"image/png",
-                  "url":"https://cvs.stage.adobe.com/content/dam/cvs/firstmile/V2/628/1e4YE1oNkgNeO0hXBlmACF/assets/jeS7x8lUNayycS8QECMoo-loc_language_icon_over.png"
-               },
-               "description":"icon for web links more langauges",
-               "title":"loc language icon over"
-            }
-         }
-      ]
-   },
-   "sys":{
-      "type":"Array"
-   },
-   "items":[
-      {
-         "sys":{
-            "createdAt":"2019-08-17T21:42:26.655Z",
-            "environment":{
-               "sys":{
-                  "linkType":"Environment",
-                  "id":"master",
-                  "type":"Link"
-               }
+                  "fields": {
+                    "needLocT3": "Yes",
+                    "textPosition": "centerTop",
+                    "headerText": "Find even more tutorials on the web",
+                    "surfaces": [
+                      "HomeScreenLearn"
+                    ],
+                    "locReady": true,
+                    "needLocFGJK": "No",
+                    "links": [
+                      {
+                        "sys": {
+                          "linkType": "Entry",
+                          "id": "4lelXkVKEEe62OG8uIQ8Iq",
+                          "type": "Link"
+                        }
+                      },
+                      {
+                        "sys": {
+                          "linkType": "Entry",
+                          "id": "6floNzx1nyOEg4EUek6OQi",
+                          "type": "Link"
+                        }
+                      },
+                      {
+                        "sys": {
+                          "linkType": "Entry",
+                          "id": "3NdXILEVbGiGKoEsIa8qsE",
+                          "type": "Link"
+                        }
+                      },
+                      {
+                        "sys": {
+                          "linkType": "Entry",
+                          "id": "2KFLlsQHUkw0uqa4GKMCSa",
+                          "type": "Link"
+                        }
+                      },
+                      {
+                        "sys": {
+                          "linkType": "Entry",
+                          "id": "7qFLKIhkliyEaaQiuQ8eIc",
+                          "type": "Link"
+                        }
+                      }
+                    ],
+                    "descriptionText": "Available languages",
+                    "title": "Multi-links - Find even more tutorials Ai",
+                    "apps": [
+                      "photoshop_cc"
+                    ]
+                  }
+                },
+                {
+                  "sys": {
+                    "createdAt": "2019-08-17T22:05:44.311Z",
+                    "environment": {
+                      "sys": {
+                        "linkType": "Environment",
+                        "id": "master",
+                        "type": "Link"
+                      }
+                    },
+                    "id": "5m1GHuVFpqTH0GsPUO7JtS",
+                    "type": "Entry",
+                    "locale": "en-US",
+                    "contentType": {
+                      "sys": {
+                        "linkType": "ContentType",
+                        "id": "layoutLearnWebOnlyMax2019",
+                        "type": "Link"
+                      }
+                    },
+                    "space": {
+                      "sys": {
+                        "linkType": "Space",
+                        "id": "26hmpptqwub2",
+                        "type": "Link"
+                      }
+                    },
+                    "updatedAt": "2019-08-17T22:05:44.311Z",
+                    "revision": 1
+                  },
+                  "fields": {
+                    "footer": {
+                      "sys": {
+                        "linkType": "Entry",
+                        "id": "giyZHvqkLKuUaauW8wASW",
+                        "type": "Link"
+                      }
+                    },
+                    "layoutName": "Ai Learn Web Only Max 2019 FGJK",
+                    "webTuts": {
+                      "sys": {
+                        "linkType": "Entry",
+                        "id": "2sipaOMHhq8o4Soao6oaEw",
+                        "type": "Link"
+                      }
+                    }
+                  }
+                },
+                {
+                  "sys": {
+                    "createdAt": "2019-08-17T22:06:40.056Z",
+                    "environment": {
+                      "sys": {
+                        "linkType": "Environment",
+                        "id": "master",
+                        "type": "Link"
+                      }
+                    },
+                    "id": "6CvJOkdmu7IJmH9E97xbXl",
+                    "type": "Entry",
+                    "locale": "en-US",
+                    "contentType": {
+                      "sys": {
+                        "linkType": "ContentType",
+                        "id": "layoutLearnLocWebOnlyMax2019",
+                        "type": "Link"
+                      }
+                    },
+                    "space": {
+                      "sys": {
+                        "linkType": "Space",
+                        "id": "26hmpptqwub2",
+                        "type": "Link"
+                      }
+                    },
+                    "updatedAt": "2019-08-17T22:06:40.056Z",
+                    "revision": 1
+                  },
+                  "fields": {
+                    "top": {
+                      "sys": {
+                        "linkType": "Entry",
+                        "id": "5TjV7MYqIgM0CyIicqeYA",
+                        "type": "Link"
+                      }
+                    },
+                    "layoutName": "Ai Learn Web Only Loc Max 2019 T3",
+                    "webTuts": {
+                      "sys": {
+                        "linkType": "Entry",
+                        "id": "2sipaOMHhq8o4Soao6oaEw",
+                        "type": "Link"
+                      }
+                    }
+                  }
+                },
+                {
+                  "sys": {
+                    "createdAt": "2018-07-18T21:18:51.259Z",
+                    "environment": {
+                      "sys": {
+                        "linkType": "Environment",
+                        "id": "master",
+                        "type": "Link"
+                      }
+                    },
+                    "id": "6floNzx1nyOEg4EUek6OQi",
+                    "type": "Entry",
+                    "locale": "en-US",
+                    "contentType": {
+                      "sys": {
+                        "linkType": "ContentType",
+                        "id": "textLink",
+                        "type": "Link"
+                      }
+                    },
+                    "space": {
+                      "sys": {
+                        "linkType": "Space",
+                        "id": "26hmpptqwub2",
+                        "type": "Link"
+                      }
+                    },
+                    "updatedAt": "2018-07-18T21:18:51.259Z",
+                    "revision": 1
+                  },
+                  "fields": {
+                    "ctaURL": "https://helpx.adobe.com/fr/illustrator/tutorials.html",
+                    "cta": "Français",
+                    "needLocT3": "No",
+                    "ctaAction": "externalURL",
+                    "needLocFGJK": "No",
+                    "style": "hyperlink",
+                    "ctaLog": "Français",
+                    "title": "NoLoc - French Link Ai"
+                  }
+                },
+                {
+                  "sys": {
+                    "createdAt": "2018-07-18T18:41:34.042Z",
+                    "environment": {
+                      "sys": {
+                        "linkType": "Environment",
+                        "id": "master",
+                        "type": "Link"
+                      }
+                    },
+                    "id": "7iDyBzY6dyw00gQyykc8Uw",
+                    "type": "Entry",
+                    "locale": "en-US",
+                    "contentType": {
+                      "sys": {
+                        "linkType": "ContentType",
+                        "id": "textLink",
+                        "type": "Link"
+                      }
+                    },
+                    "space": {
+                      "sys": {
+                        "linkType": "Space",
+                        "id": "26hmpptqwub2",
+                        "type": "Link"
+                      }
+                    },
+                    "updatedAt": "2019-09-10T15:23:16.939Z",
+                    "revision": 1817
+                  },
+                  "fields": {
+                    "ctaURL": "https://helpx.adobe.com/illustrator/tutorials.html",
+                    "cta": "Go To Adobe.com",
+                    "needLocT3": "Yes",
+                    "ctaAction": "externalURL",
+                    "locReady": true,
+                    "needLocFGJK": "Yes",
+                    "style": "default",
+                    "ctaLog": "Go to Adobe.com",
+                    "title": "Go to Adobe.com AI"
+                  }
+                },
+                {
+                  "sys": {
+                    "createdAt": "2018-07-18T21:20:28.078Z",
+                    "environment": {
+                      "sys": {
+                        "linkType": "Environment",
+                        "id": "master",
+                        "type": "Link"
+                      }
+                    },
+                    "id": "7qFLKIhkliyEaaQiuQ8eIc",
+                    "type": "Entry",
+                    "locale": "en-US",
+                    "contentType": {
+                      "sys": {
+                        "linkType": "ContentType",
+                        "id": "textLink",
+                        "type": "Link"
+                      }
+                    },
+                    "space": {
+                      "sys": {
+                        "linkType": "Space",
+                        "id": "26hmpptqwub2",
+                        "type": "Link"
+                      }
+                    },
+                    "updatedAt": "2018-07-18T21:20:28.078Z",
+                    "revision": 1
+                  },
+                  "fields": {
+                    "ctaURL": "https://helpx.adobe.com/kr/illustrator/tutorials.html",
+                    "cta": "한국어",
+                    "needLocT3": "No",
+                    "ctaAction": "externalURL",
+                    "needLocFGJK": "No",
+                    "style": "hyperlink",
+                    "ctaLog": "한국어",
+                    "title": "NoLoc - Korean Link ai"
+                  }
+                },
+                {
+                  "sys": {
+                    "createdAt": "2018-07-18T18:43:26.980Z",
+                    "environment": {
+                      "sys": {
+                        "linkType": "Environment",
+                        "id": "master",
+                        "type": "Link"
+                      }
+                    },
+                    "id": "giyZHvqkLKuUaauW8wASW",
+                    "type": "Entry",
+                    "locale": "en-US",
+                    "contentType": {
+                      "sys": {
+                        "linkType": "ContentType",
+                        "id": "bannerBasic",
+                        "type": "Link"
+                      }
+                    },
+                    "space": {
+                      "sys": {
+                        "linkType": "Space",
+                        "id": "26hmpptqwub2",
+                        "type": "Link"
+                      }
+                    },
+                    "updatedAt": "2019-09-10T15:26:38.959Z",
+                    "revision": 904
+                  },
+                  "fields": {
+                    "needLocT3": "No",
+                    "textPosition": "centerMiddle",
+                    "headerText": "Find even more tutorials on the web",
+                    "surfaces": [
+                      "homeScreenLearn"
+                    ],
+                    "locReady": true,
+                    "needLocFGJK": "Yes",
+                    "title": "Ai - Learn - Find More Tutorials - Footer",
+                    "primaryCTA": {
+                      "sys": {
+                        "linkType": "Entry",
+                        "id": "7iDyBzY6dyw00gQyykc8Uw",
+                        "type": "Link"
+                      }
+                    },
+                    "apps": [
+                      "photoshop_cc",
+                      "dreamweaver_cc"
+                    ]
+                  }
+                }
+              ]
             },
-            "id":"1e4YE1oNkgNeO0hXBlmACF",
-            "type":"Entry",
-            "locale":"en-US",
-            "contentType":{
-               "sys":{
-                  "linkType":"ContentType",
-                  "id":"experienceLearnMx19",
-                  "type":"Link"
-               }
+            "sys": {
+              "type": "Array"
             },
-            "space":{
-               "sys":{
-                  "linkType":"Space",
-                  "id":"26hmpptqwub2",
-                  "type":"Link"
-               }
-            },
-            "updatedAt":"2019-08-17T21:42:26.655Z",
-            "revision":1
-         },
-         "fields":{
-            "app":"animate_cc",
-            "stageConditions":[
-               {
-                  "layout":"stage1",
-                  "recents":0
-               }
-            ],
-            "campaignName":"Ps Learn Max 19",
-            "stage1":{
-               "sys":{
-                  "linkType":"Entry",
-                  "id":"1JmhxKq5mBCm9EephzgOi2",
-                  "type":"Link"
-               }
-            }
-         }
-      }
-   ]
-}
+            "items": [
+              {
+                "sys": {
+                  "createdAt": "2019-08-28T14:45:06.329Z",
+                  "environment": {
+                    "sys": {
+                      "linkType": "Environment",
+                      "id": "master",
+                      "type": "Link"
+                    }
+                  },
+                  "id": "6ih8hH1ndmghHttLgKASky",
+                  "type": "Entry",
+                  "locale": "en-US",
+                  "contentType": {
+                    "sys": {
+                      "linkType": "ContentType",
+                      "id": "experienceLearnMx19",
+                      "type": "Link"
+                    }
+                  },
+                  "space": {
+                    "sys": {
+                      "linkType": "Space",
+                      "id": "26hmpptqwub2",
+                      "type": "Link"
+                    }
+                  },
+                  "updatedAt": "2019-08-30T20:08:55.600Z",
+                  "revision": 2
+                },
+                "fields": {
+                  "app": "illustrator_cc",
+                  "stageConditions": [
+                    {
+                      "layout": "stage1",
+                      "recents": 0
+                    }
+                  ],
+                  "campaignName": "Ai Enterprise Learn Max 19",
+                  "stage1": {
+                    "sys": {
+                      "linkType": "Entry",
+                      "id": "5m1GHuVFpqTH0GsPUO7JtS",
+                      "type": "Link"
+                    }
+                  }
+                }
+              }
+            ]
+          }
