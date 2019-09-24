@@ -1,10 +1,966 @@
 {
-  "surfaces": {},
-  "expirationDTS": "2019-09-25T21:11:04.209+00:00",
-  "analyticsData": {
-    "responseGUID": "c616f08a-4ac0-4a16-9d8e-0f64c7dc8156"
-  },
-  "_ccx": {
-    "version": 3
-  }
+    "tutorials": [
+        {
+            "surfaces": { }, 
+            "aem_id": "illustrator/how-to/ai-basics-fundamentals", 
+            "metadata": {
+                "formatVersion": "1.0", 
+                "descriptions": {
+                    "medium": "Get to know Illustrator", 
+                    "short": "Get to know Illustrator", 
+                    "long": "Welcome to the Get Started with Illustrator series of tutorials that teaches you the basic tools and techniques of Adobe Illustrator CC. This first tutorial introduces you to the Illustrator workspace and shows you how to open and save your images."
+                }, 
+                "media_types": [
+                    "video"
+                ], 
+                "published_on": "2019-07-24T20:54:14.783Z", 
+                "creative_fields": [
+                    "graphic-design"
+                ], 
+                "application": {
+                    "fi_code": "illustrator_cc", 
+                    "sap_code": "ILST"
+                }, 
+                "locale": "en_US", 
+                "images": {
+                    "hero": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/ai-basics-fundamentals_1000x560.jpg", 
+                    "thumbnail": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/ai-basics-fundamentals_297x176.jpg"
+                }, 
+                "title": "Get to know Illustrator", 
+                "platforms": [
+                    "cc-learn", 
+                    "ccx", 
+                    "helpx"
+                ], 
+                "duration_in_seconds": "1080", 
+                "learning_approach": "video", 
+                "related_applications": {
+                    "fi_code": [ ], 
+                    "sap_code": [ ]
+                }, 
+                "level": "beginner", 
+                "stage": "begin", 
+                "source": {
+                    "third_party": false, 
+                    "label": "Adobe.com"
+                }, 
+                "topics": [
+                    "get-started"
+                ], 
+                "urls": {
+                    "helpx": "https://helpx.adobe.com/illustrator/how-to/ai-basics-fundamentals.html", 
+                    "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/ai-basics-fundamentals.cc-home.html"
+                }
+            }, 
+            "urls": {
+                "helpx": "https://helpx.adobe.com/illustrator/how-to/ai-basics-fundamentals.html", 
+                "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/ai-basics-fundamentals.cc-home.html"
+            }, 
+            "created_on": "2018-07-09T23:25Z", 
+            "modified_on": "2019-07-25T16:22:45.645Z", 
+            "locale": "en_US", 
+            "published_status": "live", 
+            "tutorialUUID": "737792fd-cc84-306d-b4da-bd34c59edf07", 
+            "service_uuid": "df0159d2-15a0-3d86-bd91-6d369cb9faf9", 
+            "version": 3
+        }, 
+        {
+            "surfaces": { }, 
+            "aem_id": "illustrator/how-to/shapes-basics", 
+            "metadata": {
+                "formatVersion": "1.0", 
+                "descriptions": {
+                    "medium": "Create and edit shapes", 
+                    "short": "Create and edit shapes", 
+                    "long": "Learn the basics of creating and editing shapes in Adobe Illustrator CC, including how to draw, combine, and trace shapes."
+                }, 
+                "media_types": [
+                    "video"
+                ], 
+                "published_on": "2019-07-24T20:53:19.460Z", 
+                "creative_fields": [
+                    "graphic-design"
+                ], 
+                "application": {
+                    "fi_code": "illustrator_cc", 
+                    "sap_code": "ILST"
+                }, 
+                "locale": "en_US", 
+                "images": {
+                    "hero": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/shapes-basics-noov_1000x560.jpg", 
+                    "thumbnail": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/shapes-basics_297x176.jpg"
+                }, 
+                "title": "Create and edit shapes", 
+                "platforms": [
+                    "cc-learn", 
+                    "ccx", 
+                    "helpx"
+                ], 
+                "duration_in_seconds": "1020", 
+                "learning_approach": "video", 
+                "related_applications": {
+                    "fi_code": [ ], 
+                    "sap_code": [ ]
+                }, 
+                "level": "beginner", 
+                "stage": "begin", 
+                "source": {
+                    "third_party": false, 
+                    "label": "Adobe.com"
+                }, 
+                "topics": [
+                    "get-started"
+                ], 
+                "urls": {
+                    "helpx": "https://helpx.adobe.com/illustrator/how-to/shapes-basics.html", 
+                    "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/shapes-basics.cc-home.html"
+                }
+            }, 
+            "urls": {
+                "helpx": "https://helpx.adobe.com/illustrator/how-to/shapes-basics.html", 
+                "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/shapes-basics.cc-home.html"
+            }, 
+            "created_on": "2018-07-09T23:26Z", 
+            "modified_on": "2019-07-25T16:23:17.323Z", 
+            "locale": "en_US", 
+            "published_status": "live", 
+            "tutorialUUID": "e1520c61-3af1-3d4a-85d0-95867ae969df", 
+            "service_uuid": "243f39d8-aeb5-3ada-bb92-5da5bbecf72c", 
+            "version": 3
+        }, 
+        {
+            "surfaces": { }, 
+            "aem_id": "illustrator/how-to/edit-artwork-basics", 
+            "metadata": {
+                "formatVersion": "1.0", 
+                "descriptions": {
+                    "medium": "Transform and edit artwork", 
+                    "short": "Transform and edit artwork", 
+                    "long": "Learn the basics of transforming and editing artwork in Adobe Illustrator CC, including resizing artwork, using groups, aligning objects, and more."
+                }, 
+                "media_types": [
+                    "video"
+                ], 
+                "published_on": "2019-07-24T20:53:47.391Z", 
+                "creative_fields": [
+                    "graphic-design"
+                ], 
+                "application": {
+                    "fi_code": "illustrator_cc", 
+                    "sap_code": "ILST"
+                }, 
+                "locale": "en_US", 
+                "images": {
+                    "hero": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/edit-artwork-basics_1000x560.jpg", 
+                    "thumbnail": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/edit-artwork-basics_297x176.jpg"
+                }, 
+                "title": "Transform and edit artwork", 
+                "platforms": [
+                    "cc-learn", 
+                    "ccx", 
+                    "helpx"
+                ], 
+                "duration_in_seconds": "1140", 
+                "learning_approach": "video", 
+                "related_applications": {
+                    "fi_code": [ ], 
+                    "sap_code": [ ]
+                }, 
+                "level": "beginner", 
+                "stage": "begin", 
+                "source": {
+                    "third_party": false, 
+                    "label": "Adobe.com"
+                }, 
+                "topics": [
+                    "get-started"
+                ], 
+                "urls": {
+                    "helpx": "https://helpx.adobe.com/illustrator/how-to/edit-artwork-basics.html", 
+                    "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/edit-artwork-basics.cc-home.html"
+                }
+            }, 
+            "urls": {
+                "helpx": "https://helpx.adobe.com/illustrator/how-to/edit-artwork-basics.html", 
+                "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/edit-artwork-basics.cc-home.html"
+            }, 
+            "created_on": "2018-08-07T21:43:02.162Z", 
+            "modified_on": "2019-07-25T16:22:59.405Z", 
+            "locale": "en_US", 
+            "published_status": "live", 
+            "tutorialUUID": "6a2eb4ee-abc3-3c34-acdc-f847d9e4ff99", 
+            "service_uuid": "5ade3def-a1fe-317c-9099-95fdbdb25f61", 
+            "version": 4
+        }, 
+        {
+            "surfaces": { }, 
+            "aem_id": "illustrator/how-to/color-basics", 
+            "metadata": {
+                "formatVersion": "1.0", 
+                "descriptions": {
+                    "medium": "Change color and strokes", 
+                    "short": "Change color and strokes", 
+                    "long": "Learn the basics of working with colors in Adobe Illustrator CC, including how to change color, create swatches, recolor artwork, and more."
+                }, 
+                "media_types": [
+                    "video"
+                ], 
+                "published_on": "2019-07-24T20:54:04.955Z", 
+                "creative_fields": [
+                    "graphic-design"
+                ], 
+                "application": {
+                    "fi_code": "illustrator_cc", 
+                    "sap_code": "ILST"
+                }, 
+                "locale": "en_US", 
+                "images": {
+                    "hero": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/color-basics-noov_1000x560.jpg", 
+                    "thumbnail": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/color-basics_297x176.jpg"
+                }, 
+                "title": "Change color and strokes", 
+                "platforms": [
+                    "cc-learn", 
+                    "ccx", 
+                    "helpx"
+                ], 
+                "duration_in_seconds": "1200", 
+                "learning_approach": "video", 
+                "related_applications": {
+                    "fi_code": [ ], 
+                    "sap_code": [ ]
+                }, 
+                "level": "beginner", 
+                "stage": "begin", 
+                "source": {
+                    "third_party": false, 
+                    "label": "Adobe.com"
+                }, 
+                "topics": [
+                    "get-started"
+                ], 
+                "urls": {
+                    "helpx": "https://helpx.adobe.com/illustrator/how-to/color-basics.html", 
+                    "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/color-basics.cc-home.html"
+                }
+            }, 
+            "urls": {
+                "helpx": "https://helpx.adobe.com/illustrator/how-to/color-basics.html", 
+                "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/color-basics.cc-home.html"
+            }, 
+            "created_on": "2018-07-11T13:28Z", 
+            "modified_on": "2019-07-25T16:22:45.186Z", 
+            "locale": "en_US", 
+            "published_status": "live", 
+            "tutorialUUID": "f1ef5cc4-6742-377f-a898-d92394ecd104", 
+            "service_uuid": "3107912d-6f86-38b8-8756-07de169a4b3c", 
+            "version": 3
+        }, 
+        {
+            "surfaces": { }, 
+            "aem_id": "illustrator/how-to/text-basics", 
+            "metadata": {
+                "formatVersion": "1.0", 
+                "descriptions": {
+                    "medium": "Add text to your designs", 
+                    "short": "Add text to your designs", 
+                    "long": "Learn the basics of using text in your Adobe Illustrator CC designs, including adding text, formatting, and styling."
+                }, 
+                "media_types": [
+                    "video"
+                ], 
+                "published_on": "2019-07-24T20:53:17.569Z", 
+                "creative_fields": [
+                    "graphic-design"
+                ], 
+                "application": {
+                    "fi_code": "illustrator_cc", 
+                    "sap_code": "ILST"
+                }, 
+                "locale": "en_US", 
+                "images": {
+                    "hero": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/text-basics-noov_1000x560.jpg", 
+                    "thumbnail": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/text-basics_297x176.jpg"
+                }, 
+                "title": "Add text to your designs", 
+                "platforms": [
+                    "cc-learn", 
+                    "ccx", 
+                    "helpx"
+                ], 
+                "duration_in_seconds": "1020", 
+                "learning_approach": "video", 
+                "related_applications": {
+                    "fi_code": [ ], 
+                    "sap_code": [ ]
+                }, 
+                "level": "beginner", 
+                "stage": "begin", 
+                "source": {
+                    "third_party": false, 
+                    "label": "Adobe.com"
+                }, 
+                "topics": [
+                    "get-started"
+                ], 
+                "urls": {
+                    "helpx": "https://helpx.adobe.com/illustrator/how-to/text-basics.html", 
+                    "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/text-basics.cc-home.html"
+                }
+            }, 
+            "urls": {
+                "helpx": "https://helpx.adobe.com/illustrator/how-to/text-basics.html", 
+                "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/text-basics.cc-home.html"
+            }, 
+            "created_on": "2018-07-11T13:29Z", 
+            "modified_on": "2019-07-25T16:23:17.403Z", 
+            "locale": "en_US", 
+            "published_status": "live", 
+            "tutorialUUID": "e700613c-ba06-3c03-9789-211a85c62895", 
+            "service_uuid": "ce6c7b03-2a8c-3f01-b4b8-fd5dedee1967", 
+            "version": 3
+        }, 
+        {
+            "surfaces": { }, 
+            "aem_id": "illustrator/how-to/drawing-tools-basics", 
+            "metadata": {
+                "formatVersion": "1.0", 
+                "descriptions": {
+                    "medium": "Create with drawing tools", 
+                    "short": "Create with drawing tools", 
+                    "long": "Learn the basics of using the drawing tools in Adobe Illustrator CC, including how to use the Pencil and Curvature tools, how to edit paths, and more."
+                }, 
+                "media_types": [
+                    "video"
+                ], 
+                "published_on": "2019-08-28T21:05:57.489Z", 
+                "creative_fields": [
+                    "graphic-design"
+                ], 
+                "application": {
+                    "fi_code": "illustrator_cc", 
+                    "sap_code": "ILST"
+                }, 
+                "locale": "en_US", 
+                "images": {
+                    "hero": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/drawing-tools-basics_1000x560.jpg", 
+                    "thumbnail": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/drawing-tools-basics_297x176.jpg"
+                }, 
+                "title": "Create with drawing tools", 
+                "platforms": [
+                    "cc-learn", 
+                    "ccx", 
+                    "helpx"
+                ], 
+                "duration_in_seconds": "1440", 
+                "learning_approach": "video", 
+                "related_applications": {
+                    "fi_code": [ ], 
+                    "sap_code": [ ]
+                }, 
+                "level": "beginner", 
+                "stage": "begin", 
+                "source": {
+                    "third_party": false, 
+                    "label": "Adobe.com", 
+                    "paid_content": false
+                }, 
+                "topics": [
+                    "get-started"
+                ], 
+                "urls": {
+                    "helpx": "https://helpx.adobe.com/illustrator/how-to/drawing-tools-basics.html", 
+                    "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/drawing-tools-basics.cc-home.html"
+                }
+            }, 
+            "urls": {
+                "helpx": "https://helpx.adobe.com/illustrator/how-to/drawing-tools-basics.html", 
+                "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/drawing-tools-basics.cc-home.html"
+            }, 
+            "created_on": "2018-08-21T23:46:24.432Z", 
+            "modified_on": "2019-08-28T22:28:01.667Z", 
+            "locale": "en_US", 
+            "published_status": "live", 
+            "tutorialUUID": "d35c48a1-c93f-3a15-8da0-4d0d6e5be4e5", 
+            "service_uuid": "b66e6127-5dbe-3b71-9004-916497461f34", 
+            "version": 7
+        }, 
+        {
+            "surfaces": { }, 
+            "aem_id": "illustrator/how-to/ai-layers-basics", 
+            "metadata": {
+                "formatVersion": "1.0", 
+                "descriptions": {
+                    "medium": "Organize content with layers", 
+                    "short": "Organize content with layers", 
+                    "long": "Learn the basics of using layers in Adobe Illustrator CC, including how to create, edit, and organize content."
+                }, 
+                "media_types": [
+                    "video"
+                ], 
+                "published_on": "2019-08-28T21:05:58.671Z", 
+                "creative_fields": [
+                    "graphic-design"
+                ], 
+                "application": {
+                    "fi_code": "illustrator_cc", 
+                    "sap_code": "ILST"
+                }, 
+                "locale": "en_US", 
+                "images": {
+                    "hero": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/ai-layers-basics_1000x560.jpg", 
+                    "thumbnail": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/ai-layers-basics_297x176.jpg"
+                }, 
+                "title": "Organize content with layers", 
+                "platforms": [
+                    "cc-learn", 
+                    "ccx", 
+                    "helpx"
+                ], 
+                "duration_in_seconds": "960", 
+                "learning_approach": "video", 
+                "related_applications": {
+                    "fi_code": [ ], 
+                    "sap_code": [ ]
+                }, 
+                "level": "beginner", 
+                "stage": "begin", 
+                "source": {
+                    "third_party": false, 
+                    "label": "Adobe.com", 
+                    "paid_content": false
+                }, 
+                "topics": [
+                    "get-started"
+                ], 
+                "urls": {
+                    "helpx": "https://helpx.adobe.com/illustrator/how-to/ai-layers-basics.html", 
+                    "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/ai-layers-basics.cc-home.html"
+                }
+            }, 
+            "urls": {
+                "helpx": "https://helpx.adobe.com/illustrator/how-to/ai-layers-basics.html", 
+                "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/ai-layers-basics.cc-home.html"
+            }, 
+            "created_on": "2018-07-09T23:25Z", 
+            "modified_on": "2019-08-28T22:28:01.629Z", 
+            "locale": "en_US", 
+            "published_status": "live", 
+            "tutorialUUID": "7de84a40-911a-326f-842d-2324fbfa9820", 
+            "service_uuid": "e8347dca-e01d-389d-93ae-9b334d53bc40", 
+            "version": 4
+        }, 
+        {
+            "surfaces": { }, 
+            "aem_id": "illustrator/how-to/artboards-basics", 
+            "metadata": {
+                "formatVersion": "1.0", 
+                "descriptions": {
+                    "medium": "Work with artboards", 
+                    "short": "Work with artboards", 
+                    "long": "Learn the basics of working with artboards in Adobe Illustrator CC, including navigating, creating, and editing."
+                }, 
+                "media_types": [
+                    "video"
+                ], 
+                "published_on": "2019-07-24T20:54:07.508Z", 
+                "creative_fields": [
+                    "graphic-design"
+                ], 
+                "application": {
+                    "fi_code": "illustrator_cc", 
+                    "sap_code": "ILST"
+                }, 
+                "locale": "en_US", 
+                "images": {
+                    "hero": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/artboards-basics-noov_1000x560.jpg", 
+                    "thumbnail": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/artboards-basics_297x176.jpg"
+                }, 
+                "title": "Work with artboards", 
+                "platforms": [
+                    "cc-learn", 
+                    "ccx", 
+                    "helpx"
+                ], 
+                "duration_in_seconds": "720", 
+                "learning_approach": "video", 
+                "related_applications": {
+                    "fi_code": [ ], 
+                    "sap_code": [ ]
+                }, 
+                "level": "beginner", 
+                "stage": "begin", 
+                "source": {
+                    "third_party": false, 
+                    "label": "Adobe.com"
+                }, 
+                "topics": [
+                    "get-started"
+                ], 
+                "urls": {
+                    "helpx": "https://helpx.adobe.com/illustrator/how-to/artboards-basics.html", 
+                    "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/artboards-basics.cc-home.html"
+                }
+            }, 
+            "urls": {
+                "helpx": "https://helpx.adobe.com/illustrator/how-to/artboards-basics.html", 
+                "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/artboards-basics.cc-home.html"
+            }, 
+            "created_on": "2018-08-21T23:46:24.323Z", 
+            "modified_on": "2019-07-25T16:22:45.203Z", 
+            "locale": "en_US", 
+            "published_status": "live", 
+            "tutorialUUID": "f5a75e4b-51e0-3044-a2b8-7f3ddad27a17", 
+            "service_uuid": "50ee5c79-f700-36cc-b394-d1626a65743e", 
+            "version": 3
+        }, 
+        {
+            "surfaces": { }, 
+            "aem_id": "illustrator/how-to/image-effects-basics", 
+            "metadata": {
+                "formatVersion": "1.0", 
+                "descriptions": {
+                    "medium": "Add images and artistic effects", 
+                    "short": "Add images and artistic effects", 
+                    "long": "Learn the basics of working with images and effects in Adobe Illustrator CC, including how to add and edit effects, apply brush strokes, and more."
+                }, 
+                "media_types": [
+                    "video"
+                ], 
+                "published_on": "2019-07-24T20:53:30.688Z", 
+                "creative_fields": [
+                    "graphic-design"
+                ], 
+                "application": {
+                    "fi_code": "illustrator_cc", 
+                    "sap_code": "ILST"
+                }, 
+                "locale": "en_US", 
+                "images": {
+                    "hero": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/image-effects-basics-noov_1000x560.jpg", 
+                    "thumbnail": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/image-effects-basics_297x176.jpg"
+                }, 
+                "title": "Add images and artistic effects", 
+                "platforms": [
+                    "cc-learn", 
+                    "ccx", 
+                    "helpx"
+                ], 
+                "duration_in_seconds": "960", 
+                "learning_approach": "video", 
+                "related_applications": {
+                    "fi_code": [ ], 
+                    "sap_code": [ ]
+                }, 
+                "level": "beginner", 
+                "stage": "begin", 
+                "source": {
+                    "third_party": false, 
+                    "label": "Adobe.com"
+                }, 
+                "topics": [
+                    "get-started"
+                ], 
+                "urls": {
+                    "helpx": "https://helpx.adobe.com/illustrator/how-to/image-effects-basics.html", 
+                    "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/image-effects-basics.cc-home.html"
+                }
+            }, 
+            "urls": {
+                "helpx": "https://helpx.adobe.com/illustrator/how-to/image-effects-basics.html", 
+                "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/image-effects-basics.cc-home.html"
+            }, 
+            "created_on": "2018-08-21T23:46:24.257Z", 
+            "modified_on": "2019-07-25T16:22:59.472Z", 
+            "locale": "en_US", 
+            "published_status": "live", 
+            "tutorialUUID": "d88c83ad-f50a-300e-aeaa-b53cd44c39ec", 
+            "service_uuid": "6219a68d-b995-32be-9599-d8c1edd48268", 
+            "version": 4
+        }, 
+        {
+            "surfaces": { }, 
+            "aem_id": "illustrator/how-to/sharing-basics", 
+            "metadata": {
+                "formatVersion": "1.0", 
+                "descriptions": {
+                    "medium": "Share artwork", 
+                    "short": "Share artwork", 
+                    "long": "Learn the basics of sharing in Adobe Illustrator CC, including sharing files, saving as PDF, and exporting images."
+                }, 
+                "media_types": [
+                    "video"
+                ], 
+                "published_on": "2019-07-24T20:53:18.696Z", 
+                "creative_fields": [
+                    "graphic-design"
+                ], 
+                "application": {
+                    "fi_code": "illustrator_cc", 
+                    "sap_code": "ILST"
+                }, 
+                "locale": "en_US", 
+                "images": {
+                    "hero": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/sharing-basics-noov_1000x560.jpg", 
+                    "thumbnail": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/sharing-basics_297x176.jpg"
+                }, 
+                "title": "Share artwork", 
+                "platforms": [
+                    "cc-learn", 
+                    "ccx", 
+                    "helpx"
+                ], 
+                "duration_in_seconds": "660", 
+                "learning_approach": "video", 
+                "related_applications": {
+                    "fi_code": [ ], 
+                    "sap_code": [ ]
+                }, 
+                "level": "beginner", 
+                "stage": "begin", 
+                "source": {
+                    "third_party": false, 
+                    "label": "Adobe.com"
+                }, 
+                "topics": [
+                    "get-started"
+                ], 
+                "urls": {
+                    "helpx": "https://helpx.adobe.com/illustrator/how-to/sharing-basics.html", 
+                    "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/sharing-basics.cc-home.html"
+                }
+            }, 
+            "urls": {
+                "helpx": "https://helpx.adobe.com/illustrator/how-to/sharing-basics.html", 
+                "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/sharing-basics.cc-home.html"
+            }, 
+            "created_on": "2018-08-21T23:46:24.271Z", 
+            "modified_on": "2019-07-25T16:23:17.355Z", 
+            "locale": "en_US", 
+            "published_status": "live", 
+            "tutorialUUID": "539da941-663e-3225-a5ad-ba480cd92325", 
+            "service_uuid": "1ad6bf47-b54e-3dd8-8bc7-296cdfd95bd0", 
+            "version": 3
+        }, 
+        {
+            "surfaces": { }, 
+            "aem_id": "illustrator/how-to/create-edit-artwork-with-paintbrush-pencil-tools", 
+            "metadata": {
+                "formatVersion": "1.0", 
+                "descriptions": {
+                    "medium": "Create artwork with the Paintbrush and Pencil tools", 
+                    "short": "Create artwork with the Paintbrush and Pencil tools", 
+                    "long": "Use the Paintbrush and Pencil tools to create expressive, free-form drawings that can be edited and adjusted easily."
+                }, 
+                "media_types": [
+                    "video"
+                ], 
+                "published_on": "2019-07-24T20:54:00.773Z", 
+                "creative_fields": [
+                    "graphic-design"
+                ], 
+                "application": {
+                    "fi_code": "illustrator_cc", 
+                    "sap_code": "ILST"
+                }, 
+                "locale": "en_US", 
+                "images": {
+                    "hero": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/create-edit-artwork-with-paintbrush-pencil-tools_1000x560.jpg", 
+                    "thumbnail": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/create-edit-artwork-with-paintbrush-pencil-tools_297x176.jpg"
+                }, 
+                "title": "Create artwork with the Paintbrush and Pencil tools", 
+                "platforms": [
+                    "cc-learn", 
+                    "ccx", 
+                    "helpx"
+                ], 
+                "duration_in_seconds": "360", 
+                "learning_approach": "project", 
+                "related_applications": {
+                    "fi_code": [ ], 
+                    "sap_code": [ ]
+                }, 
+                "level": "beginner", 
+                "stage": "begin", 
+                "source": {
+                    "third_party": false, 
+                    "label": "Adobe.com"
+                }, 
+                "topics": [
+                    "create-and-edit-content-you-draw"
+                ], 
+                "urls": {
+                    "helpx": "https://helpx.adobe.com/illustrator/how-to/create-edit-artwork-with-paintbrush-pencil-tools.html", 
+                    "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/create-edit-artwork-with-paintbrush-pencil-tools.cc-home.html"
+                }
+            }, 
+            "urls": {
+                "helpx": "https://helpx.adobe.com/illustrator/how-to/create-edit-artwork-with-paintbrush-pencil-tools.html", 
+                "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/create-edit-artwork-with-paintbrush-pencil-tools.cc-home.html"
+            }, 
+            "created_on": "2018-08-28T12:48:09.230Z", 
+            "modified_on": "2019-07-25T16:22:45.189Z", 
+            "locale": "en_US", 
+            "published_status": "live", 
+            "tutorialUUID": "d347ecea-83ed-3ae0-8a74-a026bfe922dc", 
+            "service_uuid": "ba275a92-f657-31a7-8010-056a83e467fe", 
+            "version": 2
+        }, 
+        {
+            "surfaces": { }, 
+            "aem_id": "illustrator/how-to/use-pen-tool", 
+            "metadata": {
+                "formatVersion": "1.0", 
+                "descriptions": {
+                    "medium": "Start creating with the Pen tool", 
+                    "short": "Start creating with the Pen tool", 
+                    "long": "Explore the fundamentals of drawing with precision using the Pen tool in Adobe Illustrator CC. You’ll create straight and curved paths while becoming more comfortable with this powerful tool."
+                }, 
+                "media_types": [
+                    "video"
+                ], 
+                "published_on": "2019-07-24T20:53:08.568Z", 
+                "creative_fields": [
+                    "graphic-design"
+                ], 
+                "application": {
+                    "fi_code": "illustrator_cc", 
+                    "sap_code": "ILST"
+                }, 
+                "locale": "en_US", 
+                "images": {
+                    "hero": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/use-pen-tool_1000x560.jpg", 
+                    "thumbnail": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/use-pen-tool_297x176.jpg"
+                }, 
+                "title": "Start creating with the Pen tool", 
+                "platforms": [
+                    "cc-learn", 
+                    "ccx", 
+                    "helpx"
+                ], 
+                "duration_in_seconds": "420", 
+                "learning_approach": "project", 
+                "related_applications": {
+                    "fi_code": [ ], 
+                    "sap_code": [ ]
+                }, 
+                "level": "beginner", 
+                "stage": "begin", 
+                "source": {
+                    "third_party": false, 
+                    "label": "Adobe.com"
+                }, 
+                "topics": [
+                    "create-and-edit-content-you-draw"
+                ], 
+                "urls": {
+                    "helpx": "https://helpx.adobe.com/illustrator/how-to/use-pen-tool.html", 
+                    "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/use-pen-tool.cc-home.html"
+                }
+            }, 
+            "urls": {
+                "helpx": "https://helpx.adobe.com/illustrator/how-to/use-pen-tool.html", 
+                "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/use-pen-tool.cc-home.html"
+            }, 
+            "created_on": "2018-08-28T12:48:09.221Z", 
+            "modified_on": "2019-07-25T16:23:17.327Z", 
+            "locale": "en_US", 
+            "published_status": "live", 
+            "tutorialUUID": "c2e6398a-5985-38d6-8224-3b49809118f7", 
+            "service_uuid": "09b68288-a06d-344e-9152-bbd628089ced", 
+            "version": 2
+        }, 
+        {
+            "surfaces": { }, 
+            "aem_id": "illustrator/how-to/pen-tool-exercises", 
+            "metadata": {
+                "formatVersion": "1.0", 
+                "descriptions": {
+                    "medium": "Practice creating with the Pen tool", 
+                    "short": "Practice creating with the Pen tool", 
+                    "long": "Once you’ve covered the fundamentals of this powerful drawing tool, practice your Pen tool skills by creating new artwork."
+                }, 
+                "media_types": [
+                    "video"
+                ], 
+                "published_on": "2019-07-24T20:53:23.885Z", 
+                "creative_fields": [
+                    "graphic-design"
+                ], 
+                "application": {
+                    "fi_code": "illustrator_cc", 
+                    "sap_code": "ILST"
+                }, 
+                "locale": "en_US", 
+                "images": {
+                    "hero": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/pen-tool-exercises_1000x560.jpg", 
+                    "thumbnail": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/pen-tool-exercises_297x176.jpg"
+                }, 
+                "title": "Practice creating with the Pen tool", 
+                "platforms": [
+                    "cc-learn", 
+                    "ccx", 
+                    "helpx"
+                ], 
+                "duration_in_seconds": "360", 
+                "learning_approach": "project", 
+                "related_applications": {
+                    "fi_code": [ ], 
+                    "sap_code": [ ]
+                }, 
+                "level": "beginner", 
+                "stage": "begin", 
+                "source": {
+                    "third_party": false, 
+                    "label": "Adobe.com"
+                }, 
+                "topics": [
+                    "create-and-edit-content-you-draw"
+                ], 
+                "urls": {
+                    "helpx": "https://helpx.adobe.com/illustrator/how-to/pen-tool-exercises.html", 
+                    "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/pen-tool-exercises.cc-home.html"
+                }
+            }, 
+            "urls": {
+                "helpx": "https://helpx.adobe.com/illustrator/how-to/pen-tool-exercises.html", 
+                "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/pen-tool-exercises.cc-home.html"
+            }, 
+            "created_on": "2018-08-28T12:48:09.208Z", 
+            "modified_on": "2019-07-25T16:23:17.355Z", 
+            "locale": "en_US", 
+            "published_status": "live", 
+            "tutorialUUID": "261dd74e-b89b-3533-989a-8c6fc9568f1a", 
+            "service_uuid": "43c4248e-e6b7-353a-9a09-ad073f169ce1", 
+            "version": 2
+        }, 
+        {
+            "surfaces": { }, 
+            "aem_id": "illustrator/how-to/edit-paths-you-draw", 
+            "metadata": {
+                "formatVersion": "1.0", 
+                "descriptions": {
+                    "medium": "Edit paths you draw", 
+                    "short": "Edit paths you draw", 
+                    "long": "Edit paths in your Adobe Illustrator CC artwork using a variety of tools and options, including the Pen tool, Curvature tool, and Anchor Point tool."
+                }, 
+                "media_types": [
+                    "video"
+                ], 
+                "published_on": "2019-07-24T20:53:46.499Z", 
+                "creative_fields": [
+                    "graphic-design"
+                ], 
+                "application": {
+                    "fi_code": "illustrator_cc", 
+                    "sap_code": "ILST"
+                }, 
+                "locale": "en_US", 
+                "images": {
+                    "hero": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/edit-paths-you-draw_1000x560.jpg", 
+                    "thumbnail": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/edit-paths-you-draw_297x176.jpg"
+                }, 
+                "title": "Edit paths you draw", 
+                "platforms": [
+                    "cc-learn", 
+                    "ccx", 
+                    "helpx"
+                ], 
+                "duration_in_seconds": "300", 
+                "learning_approach": "project", 
+                "related_applications": {
+                    "fi_code": [ ], 
+                    "sap_code": [ ]
+                }, 
+                "level": "beginner", 
+                "stage": "begin", 
+                "source": {
+                    "third_party": false, 
+                    "label": "Adobe.com"
+                }, 
+                "topics": [
+                    "create-and-edit-content-you-draw"
+                ], 
+                "urls": {
+                    "helpx": "https://helpx.adobe.com/illustrator/how-to/edit-paths-you-draw.html", 
+                    "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/edit-paths-you-draw.cc-home.html"
+                }
+            }, 
+            "urls": {
+                "helpx": "https://helpx.adobe.com/illustrator/how-to/edit-paths-you-draw.html", 
+                "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/edit-paths-you-draw.cc-home.html"
+            }, 
+            "created_on": "2018-08-28T12:48:09.254Z", 
+            "modified_on": "2019-07-25T16:22:59.435Z", 
+            "locale": "en_US", 
+            "published_status": "live", 
+            "tutorialUUID": "79875724-9259-3b44-b426-d91ef6081932", 
+            "service_uuid": "744c1fb3-c249-3673-b12e-f4cda777f524", 
+            "version": 2
+        }, 
+        {
+            "surfaces": { }, 
+            "aem_id": "illustrator/how-to/draw-content-behind-and-inside", 
+            "metadata": {
+                "formatVersion": "1.0", 
+                "descriptions": {
+                    "medium": "Create artwork behind and inside with drawing modes", 
+                    "short": "Create artwork behind and inside with drawing modes", 
+                    "long": "Use the drawing modes, Draw Inside and Draw Behind, to quickly add interest to your artwork."
+                }, 
+                "media_types": [
+                    "video"
+                ], 
+                "published_on": "2019-07-24T20:53:50.114Z", 
+                "creative_fields": [
+                    "graphic-design"
+                ], 
+                "application": {
+                    "fi_code": "illustrator_cc", 
+                    "sap_code": "ILST"
+                }, 
+                "locale": "en_US", 
+                "images": {
+                    "hero": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/draw-content-behind-and-inside_1000x560.jpg", 
+                    "thumbnail": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/draw-content-behind-and-inside_297x176.jpg"
+                }, 
+                "title": "Create artwork behind and inside with drawing modes", 
+                "platforms": [
+                    "cc-learn", 
+                    "ccx", 
+                    "helpx"
+                ], 
+                "duration_in_seconds": "300", 
+                "learning_approach": "project", 
+                "related_applications": {
+                    "fi_code": [ ], 
+                    "sap_code": [ ]
+                }, 
+                "level": "beginner", 
+                "stage": "begin", 
+                "source": {
+                    "third_party": false, 
+                    "label": "Adobe.com"
+                }, 
+                "topics": [
+                    "create-and-edit-content-you-draw"
+                ], 
+                "urls": {
+                    "helpx": "https://helpx.adobe.com/illustrator/how-to/draw-content-behind-and-inside.html", 
+                    "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/draw-content-behind-and-inside.cc-home.html"
+                }
+            }, 
+            "urls": {
+                "helpx": "https://helpx.adobe.com/illustrator/how-to/draw-content-behind-and-inside.html", 
+                "helpx_iframe": "https://helpx.adobe.com/illustrator/how-to/draw-content-behind-and-inside.cc-home.html"
+            }, 
+            "created_on": "2018-08-28T12:48:09.194Z", 
+            "modified_on": "2019-07-25T16:22:59.414Z", 
+            "locale": "en_US", 
+            "published_status": "live", 
+            "tutorialUUID": "0dfb4ea1-fdc0-3a89-b7a9-b8cb18e584b2", 
+            "service_uuid": "6575bbb7-0535-33c9-8b58-7b4db9493392", 
+            "version": 2
+        }
+    ]
 }
