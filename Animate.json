@@ -316,7 +316,7 @@
                       }
                     },
                     "apps": [
-                      "animate_cc"
+                      "flash_professional_cc"
                     ]
                   }
                 },
@@ -2186,7 +2186,7 @@
                       }
                     },
                     "apps": [
-                      "animate_cc"
+                      "flash_professional_cc"
                     ]
                   }
                 },
@@ -2247,7 +2247,7 @@
                       }
                     },
                     "apps": [
-                      "animate_cc"
+                      "flash_professional_cc"
                     ]
                   }
                 },
@@ -3388,7 +3388,7 @@
                     "locReady": true,
                     "showVideoPlayControl": true,
                     "apps": [
-                      "animate_cc"
+                      "flash_professional_cc"
                     ]
                   }
                 },
@@ -3937,7 +3937,7 @@
                       }
                     },
                     "apps": [
-                      "animate_cc"
+                      "flash_professional_cc"
                     ]
                   }
                 },
@@ -4043,7 +4043,7 @@
                       }
                     },
                     "apps": [
-                      "animate_cc"
+                      "flash_professional_cc"
                     ]
                   }
                 },
@@ -4306,7 +4306,7 @@
                       }
                     },
                     "apps": [
-                      "animate_cc"
+                      "flash_professional_cc"
                     ]
                   }
                 },
@@ -5270,7 +5270,7 @@
                   "revision": 3
                 },
                 "fields": {
-                  "app": "animate_cc",
+                  "app": "flash_professional_cc",
                   "whatsNewCta": {
                     "sys": {
                       "linkType": "Entry",
