@@ -561,7 +561,7 @@
                     "revision": 106
                   },
                   "fields": {
-                    "ctaURL": "https://images-tv.adobe.com/mpcv3/6734dad9-95aa-46da-b1b5-51e943b2e1ed_1565913190.960x540at1200_h264.mp4",
+                    "ctaURL": "https://utut-service-video.adobe.com/animate-video-tutorials/AnCC_Marquee_rough_03.mp4?api_key=AnimateVideo",
                     "cta": "Play video",
                     "needLocT3": "No",
                     "ctaAction": "appEvent",
