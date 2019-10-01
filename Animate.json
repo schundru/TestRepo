@@ -1810,7 +1810,7 @@
                     "revision": 41
                   },
                   "fields": {
-                    "ctaURL": "https://images-tv.adobe.com/avp/vr/7a4cf77f-2ca6-4b50-abdc-9ddc25824fb0/fbf83910-2a57-4744-9e70-f14507d359bb/bff7521e-1bbb-4866-9063-a0d8ba23099d_20160219095934.854x480at800_h264.mp4",
+                    "ctaURL": "https://utut-service-video.adobe.com/animate-video-tutorials/AnCC_Marquee_rough_03.mp4?api_key=AnimateVideo",
                     "cta": "Play video",
                     "needLocT3": "Yes",
                     "ctaAction": "appEvent",
@@ -2584,7 +2584,7 @@
                     "revision": 96
                   },
                   "fields": {
-                    "ctaURL": "https://images-tv.adobe.com/mpcv3/6734dad9-95aa-46da-b1b5-51e943b2e1ed_1565913190.960x540at1200_h264.mp4",
+                    "ctaURL": "https://utut-service-video.adobe.com/animate-video-tutorials/AnCC_Marquee_rough_03.mp4?api_key=AnimateVideo",
                     "cta": "Play video",
                     "needLocT3": "Yes",
                     "ctaAction": "appEvent",
