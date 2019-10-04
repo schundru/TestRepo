@@ -65,7 +65,7 @@
 								52428
 							],
 							"pixelAspectRatio": 1,
-							"documentType": 1,
+							"documentType": 0,
 							"artboardLayout": 0,
 							"bleedOffset": [
 								0,
@@ -162,7 +162,7 @@
 								26214
 							],
 							"pixelAspectRatio": 1.2121,
-							"documentType": 3,
+							"documentType": 10,
 							"artboardLayout": 0,
 							"bleedOffset": [
 								0,
@@ -365,7 +365,7 @@
 								52428
 							],
 							"pixelAspectRatio": 1,
-							"documentType": 5,
+							"documentType": 1,
 							"artboardLayout": 0,
 							"bleedOffset": [
 								0,
@@ -462,7 +462,7 @@
 								52428
 							],
 							"pixelAspectRatio": 1,
-							"documentType": 1,
+							"documentType": 0,
 							"artboardLayout": 0,
 							"bleedOffset": [
 								0,
@@ -707,7 +707,7 @@
 								26214
 							],
 							"pixelAspectRatio": 1.2121,
-							"documentType": 3,
+							"documentType": 10,
 							"artboardLayout": 0,
 							"bleedOffset": [
 								0,
@@ -805,7 +805,7 @@
 								52428
 							],
 							"pixelAspectRatio": 1,
-							"documentType": 1,
+							"documentType": 0,
 							"artboardLayout": 0,
 							"bleedOffset": [
 								0,
@@ -1050,7 +1050,7 @@
 								52428
 							],
 							"pixelAspectRatio": 1,
-							"documentType": 5,
+							"documentType": 1,
 							"artboardLayout": 0,
 							"bleedOffset": [
 								0,
@@ -1147,7 +1147,7 @@
 								52428
 							],
 							"pixelAspectRatio": 1,
-							"documentType": 6,
+							"documentType": 1,
 							"artboardLayout": 0,
 							"bleedOffset": [
 								0,
@@ -1244,7 +1244,7 @@
 								52428
 							],
 							"pixelAspectRatio": 1,
-							"documentType": 6,
+							"documentType": 1,
 							"artboardLayout": 0,
 							"bleedOffset": [
 								0,
@@ -1341,7 +1341,7 @@
 								52428
 							],
 							"pixelAspectRatio": 1,
-							"documentType": 1,
+							"documentType": 0,
 							"artboardLayout": 0,
 							"bleedOffset": [
 								0,
@@ -1809,7 +1809,7 @@
 								52428
 							],
 							"pixelAspectRatio": 1,
-							"documentType": 6,
+							"documentType": 1,
 							"artboardLayout": 0,
 							"bleedOffset": [
 								0,
@@ -1990,7 +1990,7 @@
 								26214
 							],
 							"pixelAspectRatio": 1.2121,
-							"documentType": 3,
+							"documentType": 4,
 							"artboardLayout": 0,
 							"bleedOffset": [
 								0,
@@ -2263,7 +2263,7 @@
 								52428
 							],
 							"pixelAspectRatio": 1,
-							"documentType": 5,
+							"documentType": 1,
 							"artboardLayout": 0,
 							"bleedOffset": [
 								0,
@@ -2271,20 +2271,13 @@
 								0,
 								0
 							],
-							"ppi": 72,
-							"isArtboardLayoutLeftToRight": "true",
-							"previewMode": 2,
-							"mode": "RGB",
-							"isATPG": "false",
-							"transparencyGrid": false,
-							"artboardRowsOrCols": 1,
-							"numArtboards": 1,
-							"width": 960,
-							"rasterEffectSettings": 72,
-							"lockBleed": true,
-							"artboardSpacing": 20,
-							"height": 560,
-							"customFile": ""
+							"analyticId": "education_standard_video_1280_720",
+							"intentID": 3,
+							"units": 5,
+							"framerate": 30,
+							"width": 1280,
+							"height": 720
+
 						},
 						"mode": "RGB",
 						"template_category": "art",
@@ -2643,7 +2636,7 @@
 								26214
 							],
 							"pixelAspectRatio": 1.2121,
-							"documentType": 3,
+							"documentType": 9,
 							"artboardLayout": 0,
 							"bleedOffset": [
 								0,
@@ -2830,7 +2823,7 @@
 								52428
 							],
 							"pixelAspectRatio": 1,
-							"documentType": 5,
+							"documentType": 1,
 							"artboardLayout": 0,
 							"bleedOffset": [
 								0,
@@ -3048,7 +3041,7 @@
 								52428
 							],
 							"pixelAspectRatio": 1,
-							"documentType": 5,
+							"documentType": 1,
 							"artboardLayout": 0,
 							"bleedOffset": [
 								0,
@@ -3145,7 +3138,7 @@
 								52428
 							],
 							"pixelAspectRatio": 1,
-							"documentType": 2,
+							"documentType": 0,
 							"artboardLayout": 0,
 							"bleedOffset": [
 								0,
@@ -3582,7 +3575,7 @@
 								26214
 							],
 							"pixelAspectRatio": 1.2121,
-							"documentType": 3,
+							"documentType": 9,
 							"artboardLayout": 0,
 							"bleedOffset": [
 								0,
@@ -3957,7 +3950,7 @@
 								52428
 							],
 							"pixelAspectRatio": 1,
-							"documentType": 2,
+							"documentType": 0,
 							"artboardLayout": 0,
 							"bleedOffset": [
 								0,
@@ -4274,7 +4267,7 @@
 								52428
 							],
 							"pixelAspectRatio": 1,
-							"documentType": 2,
+							"documentType": 0,
 							"artboardLayout": 0,
 							"bleedOffset": [
 								0,
@@ -4413,7 +4406,7 @@
 								52428
 							],
 							"pixelAspectRatio": 1,
-							"documentType": 2,
+							"documentType": 0,
 							"artboardLayout": 0,
 							"bleedOffset": [
 								0,
@@ -4572,7 +4565,7 @@
 								52428
 							],
 							"pixelAspectRatio": 1,
-							"documentType": 6,
+							"documentType": 1,
 							"artboardLayout": 0,
 							"bleedOffset": [
 								0,
