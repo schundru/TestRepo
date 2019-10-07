@@ -1990,7 +1990,7 @@
 								26214
 							],
 							"pixelAspectRatio": 1.2121,
-							"documentType": 4,
+							"documentType": 0,
 							"artboardLayout": 0,
 							"bleedOffset": [
 								0,
@@ -1998,12 +1998,12 @@
 								0,
 								0
 							],
-							"analyticId": "advanced_action_script_class",
+							"analyticId": "advanced_actionscript_3_0_550_400",
 							"intentID": 6,
 							"units": 5,
-							"framerate": 0,
-							"width": -1,
-							"height": -1
+							"framerate": 24,
+							"width": 550,
+							"height": 400
 						},
 						"mode": "RGB",
 						"template_category": "film",
@@ -2263,7 +2263,7 @@
 								52428
 							],
 							"pixelAspectRatio": 1,
-							"documentType": 1,
+							"documentType": 9,
 							"artboardLayout": 0,
 							"bleedOffset": [
 								0,
