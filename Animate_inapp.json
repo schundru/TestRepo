@@ -1,0 +1,382 @@
+{
+            "tutorials": [
+              {
+                "surfaces": {},
+                "aem_id": "illustrator/how-to/in-app-create-an-icon",
+                "metadata": {
+                  "formatVersion": "1.0",
+                  "descriptions": {
+                    "medium": "Quickly draw and modify vector shapes to create a camera icon.",
+                    "short": "Quickly draw and modify vector shapes to create a camera icon.",
+                    "long": "Quickly draw and modify vector shapes to create a camera icon."
+                  },
+                  "media_types": [
+                    "project"
+                  ],
+                  "published_on": "2018-09-24T22:05:57.174Z",
+                  "creative_fields": [
+                    "graphic-design"
+                  ],
+                  "application": {
+                    "fi_code": "illustrator_cc",
+                    "sap_code": "ILST"
+                  },
+                  "locale": "en_US",
+                  "images": {
+                    "hero": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/in-app-create-an-icon_1000x560.jpg",
+                    "thumbnail": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/in-app-create-an-icon_297x176.jpg",
+                    "thumbnailPath": "assets/ILST-24.0.0-en_US-2c57632d-6d21-4b9b-8362-456dc81700be.jpeg"
+                  },
+                  "title": "Create an icon",
+                  "platforms": [
+                    "in-app"
+                  ],
+                  "duration_in_seconds": "300",
+                  "learning_approach": "interactive-in-app",
+                  "related_applications": {
+                    "fi_code": [],
+                    "sap_code": []
+                  },
+                  "level": "beginner",
+                  "stage": "begin",
+                  "source": {
+                    "third_party": false,
+                    "label": "Adobe.com"
+                  },
+                  "topics": [
+                    "creative-cloud-for-designers"
+                  ],
+                  "urls": {
+                    "helpx": "",
+                    "helpx_iframe": ""
+                  }
+                },
+                "urls": {
+                  "helpx": "",
+                  "helpx_iframe": ""
+                },
+                "created_on": "2018-07-21T17:38Z",
+                "modified_on": "2018-09-24T23:21:31.106Z",
+                "locale": "en_US",
+                "published_status": "live",
+                "tutorialUUID": "afe0af0c-a54a-333b-b8e1-bd2f7ce2570d",
+                "service_uuid": "3159cca0-e62b-3458-91be-847e33a6af6f",
+                "version": 2
+              },
+              {
+                "surfaces": {},
+                "aem_id": "illustrator/how-to/in-app-create-a-logo",
+                "metadata": {
+                  "formatVersion": "1.0",
+                  "descriptions": {
+                    "medium": "Use shapes, typefaces, colors, and effects to create a striking monogram.",
+                    "short": "Use shapes, typefaces, colors, and effects to create a striking monogram.",
+                    "long": "Use shapes, typefaces, colors, and effects to create a striking monogram."
+                  },
+                  "media_types": [
+                    "project"
+                  ],
+                  "published_on": "2018-09-24T22:05:57.509Z",
+                  "creative_fields": [
+                    "graphic-design"
+                  ],
+                  "application": {
+                    "fi_code": "illustrator_cc",
+                    "sap_code": "ILST"
+                  },
+                  "locale": "en_US",
+                  "images": {
+                    "hero": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/in-app-create-a-logo_1000x560.jpg",
+                    "thumbnail": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/in-app-create-a-logo_297x176.jpg",
+                    "thumbnailPath": "assets/ILST-24.0.0-en_US-a0320095-33a3-48e6-8155-b1bf7cd43dd7.jpeg"
+                  },
+                  "title": "Create a logo",
+                  "platforms": [
+                    "in-app"
+                  ],
+                  "duration_in_seconds": "600",
+                  "learning_approach": "interactive-in-app",
+                  "related_applications": {
+                    "fi_code": [],
+                    "sap_code": []
+                  },
+                  "level": "beginner",
+                  "stage": "begin",
+                  "source": {
+                    "third_party": false,
+                    "label": "Adobe.com"
+                  },
+                  "topics": [
+                    "creative-cloud-for-designers"
+                  ],
+                  "urls": {
+                    "helpx": "",
+                    "helpx_iframe": ""
+                  }
+                },
+                "urls": {
+                  "helpx": "",
+                  "helpx_iframe": ""
+                },
+                "created_on": "2018-08-10T14:14:28.349Z",
+                "modified_on": "2018-09-25T20:49:41.784Z",
+                "locale": "en_US",
+                "published_status": "live",
+                "tutorialUUID": "524ead98-f4be-3225-87cd-51aeda13ff4a",
+                "service_uuid": "5a592c90-cb90-3c1d-b89d-5129df7f9ea3",
+                "version": 4
+              },
+              {
+                "surfaces": {},
+                "aem_id": "illustrator/how-to/in-app-create-graphics-for-social",
+                "metadata": {
+                  "formatVersion": "1.0",
+                  "descriptions": {
+                    "medium": "Craft an impactful message with eye-catching backgrounds and text.",
+                    "short": "Craft an impactful message with eye-catching backgrounds and text.",
+                    "long": "Craft an impactful message with eye-catching backgrounds and text."
+                  },
+                  "media_types": [
+                    "project"
+                  ],
+                  "published_on": "2018-09-24T22:05:57.976Z",
+                  "creative_fields": [
+                    "graphic-design"
+                  ],
+                  "application": {
+                    "fi_code": "illustrator_cc",
+                    "sap_code": "ILST"
+                  },
+                  "locale": "en_US",
+                  "images": {
+                    "hero": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/in-app-create-graphics-for-social_1000x560.jpg",
+                    "thumbnail": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/in-app-create-graphics-for-social_297x176.jpg",
+                    "thumbnailPath": "assets/ILST-24.0.0-en_US-b8e777a3-3a20-4cbd-8e74-3d202d98b042.jpeg"
+                  },
+                  "title": "Create text-only graphics",
+                  "platforms": [
+                    "in-app"
+                  ],
+                  "duration_in_seconds": "600",
+                  "learning_approach": "interactive-in-app",
+                  "related_applications": {
+                    "fi_code": [],
+                    "sap_code": []
+                  },
+                  "level": "beginner",
+                  "stage": "begin",
+                  "source": {
+                    "third_party": false,
+                    "label": "Adobe.com"
+                  },
+                  "topics": [
+                    "creative-cloud-for-designers"
+                  ],
+                  "urls": {
+                    "helpx": "",
+                    "helpx_iframe": ""
+                  }
+                },
+                "urls": {
+                  "helpx": "",
+                  "helpx_iframe": ""
+                },
+                "created_on": "2018-08-10T14:14:22.307Z",
+                "modified_on": "2018-09-24T23:21:31.064Z",
+                "locale": "en_US",
+                "published_status": "live",
+                "tutorialUUID": "54af3f5c-e9ed-3e6d-b424-45c6d6784d57",
+                "service_uuid": "3273049c-a989-352d-af5a-abb486e00f57",
+                "version": 3
+              },
+              {
+                "surfaces": {},
+                "aem_id": "illustrator/how-to/in-app-take-text-level",
+                "metadata": {
+                  "formatVersion": "1.0",
+                  "descriptions": {
+                    "medium": "Modify letterforms to create unique compositions.",
+                    "short": "Modify letterforms to create unique compositions.",
+                    "long": "Modify letterforms to create unique compositions."
+                  },
+                  "media_types": [
+                    "project"
+                  ],
+                  "published_on": "2018-09-24T22:05:58.754Z",
+                  "creative_fields": [
+                    "graphic-design"
+                  ],
+                  "application": {
+                    "fi_code": "illustrator_cc",
+                    "sap_code": "ILST"
+                  },
+                  "locale": "en_US",
+                  "images": {
+                    "hero": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/in-app-change-font-typeface-hover_1000x560.jpg",
+                    "thumbnail": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/in-app-change-font-typeface-hover_297x176.jpg",
+                    "thumbnailPath": "assets/ILST-24.0.0-en_US-ca2dc6d3-a537-4bfa-9707-eb1599cad518.jpeg"
+                  },
+                  "title": "Take text up a level",
+                  "platforms": [
+                    "in-app"
+                  ],
+                  "duration_in_seconds": "600",
+                  "learning_approach": "interactive-in-app",
+                  "related_applications": {
+                    "fi_code": [],
+                    "sap_code": []
+                  },
+                  "level": "beginner",
+                  "stage": "master",
+                  "source": {
+                    "third_party": false,
+                    "label": "Adobe.com"
+                  },
+                  "topics": [
+                    "text"
+                  ],
+                  "urls": {
+                    "helpx": "",
+                    "helpx_iframe": ""
+                  }
+                },
+                "urls": {
+                  "helpx": "",
+                  "helpx_iframe": ""
+                },
+                "created_on": "2018-08-10T14:12:48.303Z",
+                "modified_on": "2018-09-24T23:21:30.786Z",
+                "locale": "en_US",
+                "published_status": "live",
+                "tutorialUUID": "d8063a17-fda4-3c02-b04c-b671cdbece13",
+                "service_uuid": "76abf772-cf61-3693-bea3-87531c72e72b",
+                "version": 6
+              },
+              {
+                "surfaces": {},
+                "aem_id": "illustrator/how-to/in-app-start-making-artwork",
+                "metadata": {
+                  "formatVersion": "1.0",
+                  "descriptions": {
+                    "medium": "Create, color, and combine simple vector shapes to make eye-catching illustrations.",
+                    "short": "Create, color, and combine simple vector shapes to make eye-catching illustrations.",
+                    "long": "Create, color, and combine simple vector shapes to make eye-catching illustrations."
+                  },
+                  "media_types": [
+                    "project"
+                  ],
+                  "published_on": "2018-09-24T22:05:59.756Z",
+                  "creative_fields": [
+                    "graphic-design"
+                  ],
+                  "application": {
+                    "fi_code": "illustrator_cc",
+                    "sap_code": "ILST"
+                  },
+                  "locale": "en_US",
+                  "images": {
+                    "hero": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/in-app-start-making-artwork_1000x560.jpg",
+                    "thumbnail": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/in-app-start-making-artwork_297x176.jpg",
+                    "thumbnailPath": "assets/ILST-24.0.0-en_US-35706d99-4943-4e08-b3e8-4bf39aa975cc.jpeg"
+                  },
+                  "title": "Start creating artwork",
+                  "platforms": [
+                    "in-app"
+                  ],
+                  "duration_in_seconds": "600",
+                  "learning_approach": "interactive-in-app",
+                  "related_applications": {
+                    "fi_code": [],
+                    "sap_code": []
+                  },
+                  "level": "beginner",
+                  "stage": "begin",
+                  "source": {
+                    "third_party": false,
+                    "label": "Adobe.com"
+                  },
+                  "topics": [
+                    "drawing"
+                  ],
+                  "urls": {
+                    "helpx": "",
+                    "helpx_iframe": ""
+                  }
+                },
+                "urls": {
+                  "helpx": "",
+                  "helpx_iframe": ""
+                },
+                "created_on": "2018-08-10T14:14:34.042Z",
+                "modified_on": "2018-09-24T23:21:30.859Z",
+                "locale": "en_US",
+                "published_status": "live",
+                "tutorialUUID": "3f1b0a81-e90a-30f4-a9ff-eb5f7e9b19dc",
+                "service_uuid": "dad20dea-26fb-3200-85ff-0bd48feff91a",
+                "version": 5
+              },
+              {
+                "surfaces": {},
+                "aem_id": "illustrator/how-to/in-app-image-to-vector",
+                "metadata": {
+                  "formatVersion": "1.0",
+                  "descriptions": {
+                    "medium": "Use image trace to transform an image or photo into an editable vector shape.",
+                    "short": "Use image trace to transform an image or photo into an editable vector shape.",
+                    "long": "Use image trace to transform an image or photo into an editable vector shape."
+                  },
+                  "media_types": [
+                    "project"
+                  ],
+                  "published_on": "2018-09-24T22:06:00.923Z",
+                  "creative_fields": [
+                    "graphic-design"
+                  ],
+                  "application": {
+                    "fi_code": "illustrator_cc",
+                    "sap_code": "ILST"
+                  },
+                  "locale": "en_US",
+                  "images": {
+                    "hero": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/in-app-image-to-vector_1000x560.jpg",
+                    "thumbnail": "https://helpx.adobe.com/content/dam/help/en/illustrator/how-to/in-app-image-to-vector_297x176.jpg",
+                    "thumbnailPath": "assets/ILST-24.0.0-en_US-ed3afeea-b0db-47af-bb7f-1b8da3ba73e9.jpeg"
+                  },
+                  "title": "From image to vector",
+                  "platforms": [
+                    "in-app"
+                  ],
+                  "duration_in_seconds": "600",
+                  "learning_approach": "interactive-in-app",
+                  "related_applications": {
+                    "fi_code": [],
+                    "sap_code": []
+                  },
+                  "level": "beginner",
+                  "stage": "begin",
+                  "source": {
+                    "third_party": false,
+                    "label": "Adobe.com"
+                  },
+                  "topics": [
+                    "creative-cloud-for-designers"
+                  ],
+                  "urls": {
+                    "helpx": "",
+                    "helpx_iframe": ""
+                  }
+                },
+                "urls": {
+                  "helpx": "",
+                  "helpx_iframe": ""
+                },
+                "created_on": "2018-08-10T14:14:11.154Z",
+                "modified_on": "2018-09-24T23:21:31.004Z",
+                "locale": "en_US",
+                "published_status": "live",
+                "tutorialUUID": "38c30d7f-77e4-3aa6-8e5a-26a453bd4b51",
+                "service_uuid": "b7824252-f1b4-3c30-a0bf-5114ce5d12e5",
+                "version": 3
+              }
+            ]
+          }
