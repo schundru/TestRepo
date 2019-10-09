@@ -140,49 +140,6 @@
                 },
                 {
                   "sys": {
-                    "createdAt": "2019-09-23T18:37:20.137Z",
-                    "environment": {
-                      "sys": {
-                        "linkType": "Environment",
-                        "id": "master",
-                        "type": "Link"
-                      }
-                    },
-                    "id": "2nPpRGeMCd4PDMLLpPHJlW",
-                    "type": "Entry",
-                    "locale": "en-US",
-                    "contentType": {
-                      "sys": {
-                        "linkType": "ContentType",
-                        "id": "imageLink",
-                        "type": "Link"
-                      }
-                    },
-                    "space": {
-                      "sys": {
-                        "linkType": "Space",
-                        "id": "26hmpptqwub2",
-                        "type": "Link"
-                      }
-                    },
-                    "updatedAt": "2019-09-23T18:37:20.137Z",
-                    "revision": 1
-                  },
-                  "fields": {
-                    "image": {
-                      "sys": {
-                        "linkType": "Asset",
-                        "id": "71v394zvVUTw5hXHreNSMv",
-                        "type": "Link"
-                      }
-                    },
-                    "ctaAction": "externalURL",
-                    "ctaLog": "FInd other languages online ",
-                    "title": "FInd other languages online "
-                  }
-                },
-                {
-                  "sys": {
                     "createdAt": "2018-06-08T14:24:44.058Z",
                     "environment": {
                       "sys": {
@@ -379,13 +336,6 @@
                     ],
                     "descriptionText": "Available languages",
                     "title": "Multi-links - Find even more tutorials Ai",
-                    "sideImage": {
-                      "sys": {
-                        "linkType": "Entry",
-                        "id": "2nPpRGeMCd4PDMLLpPHJlW",
-                        "type": "Link"
-                      }
-                    },
                     "apps": [
                       "photoshop_cc"
                     ]
@@ -664,48 +614,6 @@
                     ]
                   }
                 }
-              ],
-              "Asset": [
-                {
-                  "sys": {
-                    "createdAt": "2019-09-23T18:37:15.809Z",
-                    "environment": {
-                      "sys": {
-                        "linkType": "Environment",
-                        "id": "master",
-                        "type": "Link"
-                      }
-                    },
-                    "id": "71v394zvVUTw5hXHreNSMv",
-                    "type": "Asset",
-                    "locale": "en-US",
-                    "space": {
-                      "sys": {
-                        "linkType": "Space",
-                        "id": "26hmpptqwub2",
-                        "type": "Link"
-                      }
-                    },
-                    "updatedAt": "2019-09-23T18:53:18.656Z",
-                    "revision": 3
-                  },
-                  "fields": {
-                    "file": {
-                      "fileName": "S_Illu_Localization_520x200.svg",
-                      "details": {
-                        "image": {
-                          "width": 520,
-                          "height": 200
-                        },
-                        "size": 4701
-                      },
-                      "contentType": "image/svg+xml",
-                      "url": "https://cvs.adobe.com/content/dam/cvs/firstmile/V2/487/5OZugT1jnepHiVWe56NJpa/assets/71v394zvVUTw5hXHreNSMv-S_Illu_Localization_520x200.svg",
-                      "path": "assets/ILST-24.0.0-en_US-trial-a7d3aa97-1e59-4a22-b57e-e19e46b53c6c.svg"
-                    },
-                    "title": "S Illu Localization 520x200"
-                  }
-                }
               ]
             },
             "sys": {
@@ -754,7 +662,7 @@
                   "stage1": {
                     "sys": {
                       "linkType": "Entry",
-                      "id": "5m1GHuVFpqTH0GsPUO7JtS",
+                      "id": "1z0JTIvPGNqW6R9fW1OfLP",
                       "type": "Link"
                     }
                   }
