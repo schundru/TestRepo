@@ -2,7 +2,7 @@
             "tutorials": [
               {
                 "surfaces": {},
-                "aem_id": "734710B4-FFE8-49A7-8F83-CA85B7A3EC78",
+                "aem_id": "animate/bouncing-ball/734710B4-FFE8-49A7-8F83-CA85B7A3EC78",
                 "metadata": {
                   "formatVersion": "1.0",
                   "descriptions": {
@@ -23,8 +23,8 @@
                   },
                   "locale": "en_US",
                   "images": {
-                    "hero": "https://raw.githubusercontent.com/schundru/TestRepo/master/in-app-bouncing-ball_1000x560.jpg",
-                    "thumbnail": "https://raw.githubusercontent.com/schundru/TestRepo/master/in-app-bouncing-ball_297x176.jpg",
+                    "hero": "https://animate.adobe.com/an/FirstMile/20.0/in-app-bouncing-ball_1000x560.jpg",
+                    "thumbnail": "https://animate.adobe.com/an/FirstMile/20.0/in-app-bouncing-ball_297x176.jpg",
                     "thumbnailPath": "assets/FLPR-24.0.0-en_US-65427a16-0f51-4af0-b0de-d1aedd75bd35.jpeg"
                   },
                   "title": "Make a ball bounce (Beginner)",
@@ -65,7 +65,7 @@
               },
               {
                 "surfaces": {},
-                "aem_id": "2033f26e-077e-4b95-8ae7-5faf3c7f2142",
+                "aem_id": "animate/dancing-flames/2033f26e-077e-4b95-8ae7-5faf3c7f2142",
                 "metadata": {
                   "formatVersion": "1.0",
                   "descriptions": {
@@ -86,8 +86,8 @@
                   },
                   "locale": "en_US",
                   "images": {
-                    "hero": "https://raw.githubusercontent.com/schundru/TestRepo/master/in-app-bouncing-ball_1000x560.jpg",
-                    "thumbnail": "https://raw.githubusercontent.com/schundru/TestRepo/master/in-app-bouncing-ball_297x176.jpg",
+                    "hero": "https://animate.adobe.com/an/FirstMile/20.0/in-app-dancing-flames_1000x560.jpg",
+                    "thumbnail": "https://animate.adobe.com/an/FirstMile/20.0/in-app-dancing-flames_297x176.jpg",
                     "thumbnailPath": "assets/FLPR-24.0.0-en_US-4732739a-3e98-4845-8641-7f87c1cf5593.jpeg"
                   },
                   "title": "Create a fire animation (Intermediate)",
