@@ -4333,7 +4333,7 @@
 					"revision": 1
 				},
 				"fields": {
-					"ctaURL": "https://helpx.adobe.com/illustrator/using/whats-new.html",
+					"ctaURL": "https://helpx.adobe.com/in/animate/using/whats-new.html",
 					"cta": "What's new",
 					"needLocT3": "Yes",
 					"ctaAction": "externalURL",
