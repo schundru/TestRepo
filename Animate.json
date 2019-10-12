@@ -3118,12 +3118,12 @@
 					"ctaAction": "appEvent",
 					"locReady": true,
 					"needLocFGJK": "Yes",
-					"name": "Banner 468 x 60",
+					"name": "Banner ",
 					"ctaData": {
 						"isPreset": "true",
 						"description": "1024 x 768 px",
 						"units": "pixelsUnit",
-						"title": "Banner 468 x 60",
+						"title": "Banner",
 						"thumbnail_url": "SP_PresetWebDoc.png",
 						"resolution": 72,
 						"appSpecificKey": {
@@ -3150,7 +3150,7 @@
 							"intentID": 4,
 							"units": 5,
 							"framerate": 24,
-							"width": 468,
+							"width": 468, 
 							"height": 60
 						},
 						"mode": "RGB",
@@ -3169,7 +3169,7 @@
 					"description": "1024 x 768 px",
 					"ctaEvent": "FirstMileEvent.PresetClicked",
 					"presetType": "Web",
-					"ctaLog": "Banner 468 x 60",
+					"ctaLog": "Banner",
 					"presetApp": "Illustrator"
 				}
 			},
@@ -3930,12 +3930,12 @@
 					"ctaAction": "appEvent",
 					"locReady": true,
 					"needLocFGJK": "Yes",
-					"name": "Square 250 x 250",
+					"name": "Square",
 					"ctaData": {
 						"isPreset": "true",
 						"description": "",
 						"units": "pixelsUnit",
-						"title": "Square 250 x 250",
+						"title": "Square",
 						"thumbnail_url": "SP_PresetWebDoc.png",
 						"resolution": 72,
 						"appSpecificKey": {
@@ -3981,7 +3981,7 @@
 					"description": "",
 					"ctaEvent": "FirstMileEvent.PresetClicked",
 					"presetType": "Web",
-					"ctaLog": "Square 250 x 250",
+					"ctaLog": "Square ",
 					"presetApp": "Illustrator"
 				}
 			},
@@ -4247,12 +4247,12 @@
 					"ctaAction": "appEvent",
 					"locReady": true,
 					"needLocFGJK": "Yes",
-					"name": "Sky scrapper 120 x 600",
+					"name": "Sky scrapper",
 					"ctaData": {
 						"isPreset": "true",
 						"description": "1280 x 1024 px",
 						"units": "pixelsUnit",
-						"title": "Sky scrapper 120 x 600",
+						"title": "Sky scrapper",
 						"thumbnail_url": "SP_PresetWebDoc.png",
 						"resolution": 72,
 						"appSpecificKey": {
@@ -4298,7 +4298,7 @@
 					"description": "1280 x 1024 px",
 					"ctaEvent": "FirstMileEvent.PresetClicked",
 					"presetType": "Web",
-					"ctaLog": "Sky scrapper 120 x 600",
+					"ctaLog": "Sky scrapper",
 					"presetApp": "Illustrator"
 				}
 			},
@@ -4386,12 +4386,12 @@
 					"ctaAction": "appEvent",
 					"locReady": true,
 					"needLocFGJK": "Yes",
-					"name": "Leader Board 728 x 90",
+					"name": "Leader Board",
 					"ctaData": {
 						"isPreset": "true",
 						"description": "",
 						"units": "pixelsUnit",
-						"title": "Leader Board 728 x 90",
+						"title": "Leader Board",
 						"thumbnail_url": "SP_PresetWebDoc.png",
 						"resolution": 72,
 						"appSpecificKey": {
@@ -4437,7 +4437,7 @@
 					"description": "",
 					"ctaEvent": "FirstMileEvent.PresetClicked",
 					"presetType": "Web",
-					"ctaLog": "Leader Board 728 x 90",
+					"ctaLog": "Leader Board",
 					"presetApp": "Illustrator"
 				}
 			},
