@@ -237,7 +237,7 @@
 					"style": "none",
 					"ctaEvent": "com.adobe.ccx.start.openInAppTutorial",
 					"ctaData": {
-						"tutorial_id": "coachmark1"
+						"tutorial_id": "animate/bouncing-ball/734710B4-FFE8-49A7-8F83-CA85B7A3EC78"
 					},
 					"ctaLog": "View in the app",
 					"title": "View in-app What's New modal card right Ai"
