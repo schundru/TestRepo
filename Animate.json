@@ -1837,7 +1837,6 @@
 						"artboardSpacing": 20,
 						"height": 2436
 					},
-					"description": "1125 x 2436 p",
 					"ctaEvent": "FirstMileEvent.PresetClicked",
 					"presetType": "Mobile",
 					"ctaLog": "iPad 3-4 Gen",
