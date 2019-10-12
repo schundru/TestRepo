@@ -445,7 +445,7 @@
 					"name": "HD",
 					"ctaData": {
 						"isPreset": "true",
-						"description": "792 x 1224 pt",
+						"description": "",
 						"units": "pointsUnit",
 						"title": "HD",
 						"thumbnail_url": "SP_PrintDoc.png",
@@ -490,7 +490,7 @@
 						"artboardSpacing": 20,
 						"height": 1224
 					},
-					"description": "792 x 1224 pt",
+					"description": "",
 					"ctaEvent": "FirstMileEvent.PresetClicked",
 					"presetType": "Print",
 					"ctaLog": "HD",
@@ -788,7 +788,7 @@
 					"name": "Full HD",
 					"ctaData": {
 						"isPreset": "true",
-						"description": "792 x 1224 pt",
+						"description": "",
 						"units": "pointsUnit",
 						"title": "HD",
 						"thumbnail_url": "SP_PrintDoc.png",
@@ -834,7 +834,7 @@
 						"artboardSpacing": 20,
 						"height": 1224
 					},
-					"description": "792 x 1224 pt",
+					"description": "",
 					"ctaEvent": "FirstMileEvent.PresetClicked",
 					"presetType": "Print",
 					"ctaLog": "Full HD",
@@ -1792,7 +1792,7 @@
 					"name": "iPad 3-4 Gen",
 					"ctaData": {
 						"isPreset": "true",
-						"description": "1125 x 2436 px",
+						"description": "",
 						"units": "pixelsUnit",
 						"title": "iPad 3-4 Gen",
 						"thumbnail_url": "SP_PresetMobileAppDoc.png",
@@ -3024,7 +3024,7 @@
 					"name": "iPhone 5",
 					"ctaData": {
 						"isPreset": "true",
-						"description": "1920 x 1080 pt",
+						"description": "",
 						"units": "pointsUnit",
 						"title": "iPhone 5",
 						"thumbnail_url": "SP_PresetArt.png",
@@ -3069,7 +3069,7 @@
 						"artboardSpacing": 20,
 						"height": 1080
 					},
-					"description": "1920 x 1080 px",
+					"description": "",
 					"ctaEvent": "FirstMileEvent.PresetClicked",
 					"presetType": "Art & Illustration",
 					"ctaLog": "iPhone 5",
@@ -3558,7 +3558,7 @@
 					"name": "Canvas",
 					"ctaData": {
 						"isPreset": "true",
-						"description": "1920 x 1080 px",
+						"description": "",
 						"units": "pixelsUnit",
 						"title": "Canvas",
 						"thumbnail_url": "SP_PresetFilmVideo.png",
@@ -3603,7 +3603,7 @@
 						"artboardSpacing": 20,
 						"height": 1080
 					},
-					"description": "1920 x 1080 px",
+					"description": "",
 					"ctaEvent": "FirstMileEvent.PresetClicked",
 					"presetType": "Film & Studio",
 					"ctaLog": "WebGL standard",
@@ -3933,7 +3933,7 @@
 					"name": "Square 250 x 250",
 					"ctaData": {
 						"isPreset": "true",
-						"description": "1366 x 768 px",
+						"description": "",
 						"units": "pixelsUnit",
 						"title": "Square 250 x 250",
 						"thumbnail_url": "SP_PresetWebDoc.png",
@@ -3978,7 +3978,7 @@
 						"artboardSpacing": 20,
 						"height": 768
 					},
-					"description": "1366 x 768 px",
+					"description": "",
 					"ctaEvent": "FirstMileEvent.PresetClicked",
 					"presetType": "Web",
 					"ctaLog": "Square 250 x 250",
@@ -4389,7 +4389,7 @@
 					"name": "Leader Board 728 x 90",
 					"ctaData": {
 						"isPreset": "true",
-						"description": "1920 x 1080 px",
+						"description": "",
 						"units": "pixelsUnit",
 						"title": "Leader Board 728 x 90",
 						"thumbnail_url": "SP_PresetWebDoc.png",
@@ -4434,7 +4434,7 @@
 						"artboardSpacing": 20,
 						"height": 1080
 					},
-					"description": "1920 x 1080 px",
+					"description": "",
 					"ctaEvent": "FirstMileEvent.PresetClicked",
 					"presetType": "Web",
 					"ctaLog": "Leader Board 728 x 90",
