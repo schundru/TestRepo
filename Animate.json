@@ -1692,7 +1692,7 @@
 					"ctaData": {
 						"template_category": "CmdN"
 					},
-					"description": "View All",
+					"description": "",
 					"ctaEvent": "FirstMileEvent.PresetClicked",
 					"presetType": "Custom",
 					"ctaLog": "More Presets",
