@@ -8,7 +8,7 @@
                   "descriptions": {
                     "medium": "Learn the basics of frame by frame animation by creating a simple bouncing ball animation.",
                     "short": "Learn the basics of frame by frame animation by creating a simple bouncing ball animation.",
-                    "long": "Learn the basics of frame by frame animation by creating a simple bouncing ball animation. In this exercise you will get familiarised with the basic concepts of Animate such as Basic drawing tools, frame and timeline."
+                    "long": "Learn the basics of frame by frame animation by creating a simple bouncing ball animation."
                   },
                   "media_types": [
                     "project"
@@ -71,7 +71,7 @@
                   "descriptions": {
                     "medium": "Learn the basic of Keyframe animation by creating a simple looping fire animation.",
                     "short": "Learn the basic of Keyframe animation by creating a simple looping fire animation.",
-                    "long": "Learn the basics of Keyframe animation by creating a simple looping fire animation. In this exercise you will be introduced to some of the basic concepts such as tween-ing, creation/usage of Symbols and a quick introduction to properties inspector."
+                    "long": "Learn the basics of Keyframe animation by creating a simple looping fire animation."
                   },
                   "media_types": [
                     "project"
